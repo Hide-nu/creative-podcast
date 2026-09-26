@@ -1,8 +1,16 @@
 {
  "page_id": "3e6daecc3d9181c4a6acd15e830d5a03",
  "title": "マインクラフト",
- "chars": 6549,
+ "chars": 6571,
  "award": "2025（累計3億5千万本、ギネス世界記録「史上最も売れたビデオゲーム」）",
- "note": "",
- "sources": "ウィキペディア英語版「Development of Minecraft: Java Edition」、ウィキペディア英語版「Markus Persson」、ゲームリアクター「Minecraft sells 350 million copies」、タイム誌「Minecraft Microsoft 2.5 Billion Dollar Acquisition」、ポケットゲーマー「It's not about the money. It's about my sanity, says a departing Notch」、ウィキペディア英語版「Block by Block (program)」、ウィキペディア英語版「The Uncensored Library」、エドサージ「After Selling MinecraftEdu, Joel Levin Turns Focus to Kerbal Space Program」、マインクラフト公式「Minecraft カップ 2019 全国大会」、フォーブス「A Minecraft Movie Ends Its Theatrical Run」"
+ "note": "本人ブログ「The Origins of Minecraft」（2009年10月30日、notch.tumblr.com）は現存しないがWayback Machineのアーカイブで原文を確認して使用。TIGSourceの元スレッドは取得できず、名前の変更（Order of the Stone）はWikipediaの記述で確認。二次ページ tcrf.net は下調べ時に不審な埋め込み指示があったため不使用。有料販売開始は『2009年半ば』とした（2010年3月時点で『9か月販売』という本人発言から逆算）。",
+ "turning_points": [
+  "2009年春頃：趣味のゲーム作りを問題視し始めたキングに残らず、副業を認めるjAlbumに転職（Notch、PC Gamer 2012「The Making of Minecraft」）",
+  "2009年春（〜5月）：アイソメトリックの拠点づくりゲームRubyDungに、Dungeon Keeper風の一人称視点を足したが、低解像度でぼやけて醜いとして外す（Notchブログ「The Origins of Minecraft」2009、PC Gamer 2012）",
+  "2009年5月：Infiniminerを見て『これこそ作りたかったゲーム』。ただし『建築は楽しいが変化が足りない、赤青のブロックがひどい』としてファンタジー方向へ。大きな画素のブロックで一人称のぼやけ問題を解決し、RubyDungのコードを流用。敵は平面スプライトも写実モデルも避け、ZombieTownの人型モデルを移植（同ブログ、PC Gamer、Gamasutra 2010）",
+  "2009年半ば：無料配布を続けず、完成前の版を有料販売／『お金を取らなければ払ってもらえない、完成を待てば完成しない』『資金と、追加要素が技術的・商業的に機能するかの測定』（PC Gamer 2012、Gamasutra 2010）",
+  "2009〜10年：固定計画を持たず作りながら設計。夜・季節・無限マップは計画外で、反応を受けて追加。短期企画のつもりを人気が続く限り継続に変更（Gamasutra 2010）",
+  "2010年：売上が給料を超えてもjAlbumに週2日・9か月残り安全策を取る。9月にValveの誘いを断りMojangを法人化（PC Gamer 2012）"
+ ],
+ "sources": "Markus Persson「The Origins of Minecraft」（The Word of Notch、2009年10月、Wayback Machine）、Gamasutra「Interview: Markus 'Notch' Persson Talks Making Minecraft」（2010年3月、Game Developer掲載）、PC Gamer「The Making of Minecraft」（2012年11月、Wayback Machine）、Wikipedia「Development of Minecraft: Java Edition」、Wikipedia「Markus Persson」、Wikipedia「Infiniminer」、Minecraft Wiki「RubyDung」、Cascade PBS（Crosscut）「The local origins of Minecraft: A conversation with indie gamer Zachary Barth」（2015年8月）、Steven Johnson『Where Good Ideas Come From』（2010）、Mintzberg & Waters「Of Strategies, Deliberate and Emergent」（1985）"
 }

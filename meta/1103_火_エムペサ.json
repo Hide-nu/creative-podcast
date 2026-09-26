@@ -1,1 +1,16 @@
-{"page_id": "3e6daecc3d91812787b0f7e5bd4c15c2", "title": "M-Pesa（エムペサ）", "chars": 6541, "award": "2008（GSMAグローバル・モバイル・アワード受賞）。2016年サイエンス誌掲載研究でケニアの約19万4千世帯を貧困から脱出させたと推計", "note": "", "sources": "ウィキペディア英語版「M-Pesa」、サファリコム・ニュースルーム「The M-PESA wonder: How it all begun」、サファリコム年次報告2025「Safaricom Kenya Performance Review」、ケニアン・ヒストリー「The birth of M-Pesa: how Kenya invented mobile money」、ボストン・レビュー「Perpetual Debt in the Silicon Savannah」、ヒューマニタリアン・プラクティス・ネットワーク「Mobile phone-based cash transfers: lessons from the Kenya emergency response」、サイエンス誌 スリとジャック「The long-run poverty and gender impacts of mobile money」"}
+{
+ "page_id": "3e6daecc3d91812787b0f7e5bd4c15c2",
+ "title": "M-Pesa（エムペサ）",
+ "chars": 6582,
+ "award": "2007年3月サファリコムが開始、1か月で登録2万人超。2025年時点で1日8千万件超の取引（サファリコム発表）",
+ "note": "経緯の語り手が陣営で違うため台本で明示：ボーダフォン側はヒューズ＆ロニー論文（2007）、サファリコム側はマイケル ジョセフの2025年の回想（株主に『ばかげた考え』と言われたが押し切った。時期の詳細は不明）。前提の補足：DFIDのFDCFからの拠出額は論文で『約100万ポンド、ボーダフォンが同額』と確認できた（下調べでは未確認）。ヒューズは発端の持続可能な開発に関する世界首脳会議（ヨハネスブルグ）を『2003年』と書いているが同会議は2002年開催のため、台本では会議の年を言わず、提案書作成の2003年半ばのみ年を示した。",
+ "turning_points": [
+  "2003年：社内の投資競争で予算を取る道を捨て、DFIDの金融深化チャレンジ基金（総額1500万ポンド、費用50%マッチング）を使う／研究開発部門は技術志向で合わないため（ヒューズ＆ロニー論文）",
+  "2003年半ば：サファリコム社員に本業のかたわらで任せるのは誤りとして、専任のプロジェクト責任者（ロニー）を置く（同）",
+  "2005年：欧米の銀行前提の既製プラットフォーム購入を捨て、しぶしぶ自社開発を選択、英サジェンシアに発注（同）",
+  "2005年：代理店にPOS端末、客に磁気カードを配る案を捨て、約40ドルの携帯電話に代理店用メニューを入れる方式に（同）",
+  "2005年10月〜2006年：融資返済用の試験で客が夜間金庫・移動中の現金運搬・強盗に遭った夫へのバス代送金などに使うのを観察し、MFI軸の全国展開は複雑すぎるとして捨て、『Send Money Home』を軸に機能を3つに絞る（同）",
+  "2007年前後：ボーダフォン株主の『時間と金の無駄』という反対をジョセフが押し切る（シチズン デジタル 2025年3月）"
+ ],
+ "sources": "Nick Hughes & Susie Lonie「M-PESA: Mobile Money for the 'Unbanked': Turning Cellphones into 24-Hour Tellers in Kenya」（Innovations、2007）、シチズン デジタル「From 'stupid idea' to a financial revolution: Michael Joseph reveals how M-Pesa almost didn't happen」（2025年3月）、IFC／世界銀行「M-PESA Kenya Case Study（IFC Mobile Money Toolkit）」、Henry Mintzberg & James Waters「Of Strategies, Deliberate and Emergent」（1985）、Clayton Christensen『Competing Against Luck』（2016）"
+}

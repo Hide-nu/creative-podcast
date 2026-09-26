@@ -1,0 +1,15 @@
+{
+ "page_id": "3e5daecc3d918107927cdac6f9c823e0",
+ "title": "Runway（ランウェイ）",
+ "chars": 6553,
+ "award": "2023（タイム誌『最も影響力のある企業100』選出）。潜在拡散モデル（Stable Diffusionの基礎）の共同開発元",
+ "note": "アドビの誘いの年は出典で特定できないため『修了制作の発表時』とし、年は書いていない（会社設立は2018年）。動画編集に絞った時期は、2020年12月のVentureBeatでは『AIツールの道具箱』、2021年12月のシリーズBで『動画編集ツール』とされることから、その間として年月は断定せず記述。『資金調達で50回断られた』（Upstarts Media）は有料で原文未確認のため不使用。Madrona番組では最初の調達は約4週間・デモのみと本人が語っており、こちらを採用。Hugging Faceの元スレッドは現在移転済みのため、ウェイバックマシンの保存版で原文を確認。Gen-2に至る判断の本人発言は見つからず、ACQ2のカメラの比喩のみ紹介。",
+ "turning_points": [
+  "修了制作発表の2週間後：アドビのAIチームへの誘い（夢の仕事、査証付き）を断り起業／『どう作るかを自分でコントロールしたい』（Madrona Founded & Funded、2022年4月）",
+  "2018年〜：用途を絞らず、何百ものモデルを試せる『MLモデルのアプリストア』から始めた／新しい技術は実験され試される必要があったため（Sacra、2022年3月）",
+  "2020年12月〜2021年12月：編集者から『XがあるならYとZも、手作業はうんざり』という要望が続き、汎用のモデル集から動画編集（ロトスコープの自動化から）へ全面的に絞った。編集そのものは差別化にしない（Sacra、VentureBeat）",
+  "2021〜2022年：他社モデルを借りず自社で基礎研究（エッサーとミュンヘン大の潜在拡散モデル）。2022年10月にSD1.5を公開しスタビリティーの削除要求に『侵害はない』と反論、要求は撤回。以後SDの新版から距離を置く（Hugging Face スレッド、Forbes 2022年12月）",
+  "2023年2〜3月：画像生成競争ではなく映像へ。まず既存映像を変換するGen-1を映像制作者と密に開発、約6週間後に文章から生成するGen-2（MIT Technology Review、The Verge）"
+ ],
+ "sources": "Madrona「IA40 Spotlight: RunwayML's Cristóbal Valenzuela on the intersection of art and technology」（2022年4月）、Sacra「Cristóbal Valenzuela, CEO of Runway, on rethinking the primitives of video」（2022年3月）、VentureBeat「RunwayML raises $8.5 million for its AI-powered media creation tools」（2020年12月）、Forbes「Runway Raises $50 Million At $500 Million Valuation As Generative AI Craze Continues」（2022年12月）、Hugging Face「runwayml/stable-diffusion-v1-5 Discussion #1」（2022年10月、ウェイバックマシン保存版）、MIT Technology Review「The original startup behind Stable Diffusion has launched a generative AI for video」（2023年2月）、The Verge「Text-to-video AI inches closer as startup Runway announces new model」（2023年3月）、Acquired「ACQ2: Generative AI in Video and the Future of Storytelling」、404 Media のランウェイ学習データに関する内部資料の報道（2024年7月25日）、Eric von Hippel『民主化するイノベーション』、Clayton Christensen『ジョブ理論』"
+}

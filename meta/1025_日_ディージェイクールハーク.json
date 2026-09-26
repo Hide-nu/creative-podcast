@@ -1,8 +1,15 @@
 {
  "page_id": "3e5daecc3d91818791e5d999b8e85b57",
  "title": "DJクール・ハーク",
- "chars": 6596,
+ "chars": 6628,
  "award": "2023（ロックの殿堂 音楽的影響賞）。1973年8月11日のパーティーがヒップホップ誕生の日とされる",
- "note": "",
- "sources": "ウィキペディア英語版「DJ Kool Herc」、ローリングストーン誌「Kool Herc and the History (and Mystery) of Hip-Hop's First Day」、ブリタニカ「DJ Kool Herc」、ウィキペディア英語版「1520 Sedgwick Avenue」、ペースト誌「DJ Kool Herc: The Back-to-School Party That Started A Revolution」、エッセンス誌「Inside The Block Party Where Hip-Hop Was Born」"
+ "note": "『1973年8月11日にメリーゴーラウンドがデビューした』は通説で裏付けなし。当夜の録音・映像・招待状は無く、本人もかけた曲を覚えていない（Rolling Stone 2023）。ブレイクを始めた時期は本人の説明で揺れる（1989年は1970年、1998年は70年代初め、重視したのは75〜76年）。メリーゴーラウンドの中身も『複数のレコードのブレイクを順につなぐ』（本人）と『同じレコード2枚でループ』（Chang、NPR）で説明が違うため両方を出典付きで併記。ブレイクへの傾斜も、Changの本（曲をほぼ捨てブレイクだけに）と1998年の本人（ビートを追う人間ではない、段階で曲をかける）で証言が割れるため併記。客数も数百人（Rolling Stone）と百人近く（Chang、NPR）で割れる。",
+ "turning_points": [
+  "1973年頃（最初期）：故郷ジャマイカのレゲエをかけたが受けず、ブロンクスの客が好むファンクとソウルに切り替え。ただし低音中心の鳴らし方は残す／『I'm in Rome, I got to do what the Romans do』（RBMA、Frank Broughton 1998年インタビュー）",
+  "時期は証言で揺れる（1970〜70年代初め）：曲を最初から最後までかける当時の常識を捨て、客が壁ぎわで待っていたブレイクに直行し、複数のブレイクをつなぐ『メリーゴーラウンド』を試す／踊り手として盛り上がる直前で曲を替えられた不満と、客の観察から（RBMA 1998、Jeff Chang『Can't Stop Won't Stop』、NPR 2023『I go right to the yolk』）",
+  "1970年代半ば：ブレイクに振り切るか、段階で曲を変える形式を保つか。1998年の本人は『ビートを追う人間ではない、良い音楽を追う』として形式を保ったと語る一方、Changの本はほぼブレイクだけに絞ったと書く（RBMA、Chang）",
+  "時期不明：レコードのラベルをはがし曲名を隠す／父の助言『それで評判と客がつく』（Chang）",
+  "1970年代半ば：機材がないため、Executive Playhouseで3週間無給でかける代わりに自分の夜の権利を得て、Amazing Bertの機材を買い取りHerculordsを構築。ヘッドホンがないため声でつなぎ目を隠しMCの原型に（RBMA、Rolling Stone）"
+ ],
+ "sources": "Red Bull Music Academy Daily「Kool Herc」（Frank Broughton、1998年インタビュー、2018年掲載）、NPR「50 years ago, teenagers partied in the Bronx — and gave rise to hip-hop」（2023年7月）、Rolling Stone「Kool Herc and the History (and Mystery) of Hip-Hop's First Day」（David Browne、2023年8月、アーカイブで閲覧）、Longreads「On DJ Kool Herc and a Seminal Moment in Hip-Hop History」（Jeff Chang『Can't Stop Won't Stop』2005の抜粋）、Perfect Sound Forever「Kool Herc」（各インタビューでの本人説明の比較）、Donald Schön『The Reflective Practitioner』（1983）、Eric von Hippel「Lead Users」（Management Science、1986）"
 }

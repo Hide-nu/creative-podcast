@@ -1,8 +1,10 @@
-import sys, re, io, wave, numpy as np, subprocess, time
+import sys, re, io, wave, numpy as np, subprocess, time, glob
 from voicevox_core.blocking import Onnxruntime, OpenJtalk, Synthesizer, VoiceModelFile
 import pyopenjtalk
 DIC = pyopenjtalk.OPEN_JTALK_DICT_DIR.decode()
-ort = Onnxruntime.load_once(filename="ort/voicevox_onnxruntime-linux-x64-1.17.3/lib/libvoicevox_onnxruntime.so.1.17.3")
+# Linux は .so、Mac（setup_voicevox_mac.sh）は .dylib
+ORT_LIB = (glob.glob("ort/*/lib/libvoicevox_onnxruntime.so.*") + glob.glob("ort/*/lib/libvoicevox_onnxruntime.*.dylib"))[0]
+ort = Onnxruntime.load_once(filename=ORT_LIB)
 syn = Synthesizer(ort, OpenJtalk(DIC))
 vvm, style, src, out = sys.argv[1], int(sys.argv[2]), sys.argv[3], sys.argv[4]
 speed = float(sys.argv[5]) if len(sys.argv) > 5 else 1.0

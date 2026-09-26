@@ -1,8 +1,15 @@
 {
  "page_id": "3e5daecc3d9181639574f9b1a0fa53d6",
  "title": "Dumb Ways to Die（メルボルン・メトロ）",
- "chars": 6598,
+ "chars": 6542,
  "award": "2013（カンヌライオンズ グランプリ5部門：フィルム、ダイレクト、PR、ラジオ、インテグレーテッド）",
- "note": "メモの「実際の事故減少」について：メトロトレインズが公表したのは死亡事故ではなく『ニアミス』の減少（2012年11月〜2013年1月、前年同期比約30％減、百万kmあたり13.29→9.17件、年平均比では約20％減）で、因果関係は未検証。元州インフラ省職員やエフィー賞審査員が根拠の薄さを批判しており、台本ではその旨を明示した。",
- "sources": "Wikipedia「Dumb Ways to Die」、Adweek「'Dumb Ways to Die' Ends With Record 5 Grand Prix, Adding Film and Integrated」、Mumbrella「Has Dumb Ways to Die been effective?」（2015年）、Mumbrella「Funny and likeable - my strategy creating Dumb Ways to Die」（John Mescall寄稿、2012年）、Fast Company「Dove Real Beauty Sketches And \"Dumb Ways To Die\" Win Grand Prix In Titanium & Integrated」、Campaign「'Dumb Ways to Die': the story behind a global marketing phenomenon」、Witte (1992) Extended Parallel Process Model、Tannenbaum et al. (2015) Psychological Bulletin 恐怖訴求のメタ分析、Brehm (1966) A Theory of Psychological Reactance、Berger & Milkman (2012) \"What Makes Online Content Viral?\"、Zajonc (1968) 単純接触効果、Petty & Cacioppo 精緻化見込みモデル"
+ "note": "効果の主張（危険行動20％減、ニアミス減少）は因果関係が未検証で、元州社会基盤省職員の批判、エフィー賞審査員の指摘、メトロ幹部自身の留保があるため、台本では両論を明示。歌手名タンジェリン キティは『メトロの名を出さないため』ではなく、ティンパン オレンジとザ キャット エンパイアの二つのバンド名の合成だとアドウィークが説明しているため、その説明に従った。自殺を扱わなかった件のマンブレラのコメント返信は、寄稿へのコメント欄に載った制作側の返答として扱い、メスコール本人と断定していない。Tagline podcast、LIA講演映像は音声のため未確認。『ブランドを最後まで出さない判断』の本人発言は見つからず、本題が2分21秒以降に来る構成と読者の批判だけを事実として記述。",
+ "turning_points": [
+  "2012年：メトロのオールソップが恐怖・流血の定石を捨て、『欲しくないもの』の形で依頼／『ブランドの横に否定的な映像を置きたくない、やり尽くされたものも嫌』『怖がらせて遠ざけるのでなく引き寄せる』（Marketing-Interactive、Mumbrella 2012年11月）",
+  "2012年：メスコールが『真面目な安全メッセージの正反対』として異様に明るくかわいい歌を選択／拡散する5類型のうち暴力と性は使えず、面白さとかわいさを両方重ねて確率を倍に（Adweek 2012年12月、Mumbrella寄稿）",
+  "2012年：提案前にミルズが電話で『歌をやります』と根回し、オールソップは『切ります』。アニメ構想と歌詞の全文読み上げで承認され、歌詞は提案から公開までほぼ不変（Marketing-Interactive）",
+  "2012年後半：広告音楽ではなく独立した歌として作る／マッギルに歌詞だけを渡し『最も耳に残る広告らしくない音楽』を依頼、フロストには『自分が楽しめるように』、歌詞の極端さに対し絵は最も単純に（Adweek、Mumbrella寄稿）",
+  "2012年11月：題名を『電車のまわりでは安全に』ではなく『ダム ウェイズ トゥ ダイ』に。本題は2分過ぎ、GIF・楽曲配信・コメント欄開放で共有しやすく。自殺は依頼の範囲外とした（Mumbrella寄稿とコメント返信、Marketing-Interactive）"
+ ],
+ "sources": "Marketing-Interactive「Chloe Alsop interview: Dumb Ways to Die」、Adweek「Spot: Angels of Death」（2012年12月、ウェイバックマシン保存版）、Mumbrella「Why Dumb Ways to Die was a viral sensation」（John Mescall寄稿、2012年）、Mumbrella「Metro Trains launches Dumb Ways to Die campaign to curb train-related deaths」（2012年11月）、Mumbrella「Dumb Ways to Die and social media bullshit」（Karalee Evans寄稿、2013年2月）、Mumbrella「Has Dumb Ways to Die stopped dumb behaviour around trains?」（2014年）、Adpulp「Dumb Ways to Die Was Born Out Of Simplicity」、Muse by Clios「The Story of Dumb Ways to Die」、Wikipedia「Dumb Ways to Die」、Kim Witte (1992) Extended Parallel Process Model、Berger & Milkman (2012) \"What Makes Online Content Viral?\""
 }

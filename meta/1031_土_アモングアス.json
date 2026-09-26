@@ -1,1 +1,15 @@
-{"page_id": "3e6daecc3d91818fa5d3fe22ea11a913", "title": "Among Us", "chars": 6555, "award": "2020（ザ・ゲーム・アワード 最優秀マルチプレイヤー賞・最優秀モバイルゲーム賞）", "note": "", "sources": "ゲーム・ワールド・オブザーバー「Brief history of InnerSloth: Three attempts to abandon Among Us」、シャックニュース「Slow to Rise: The Among Us Story」、ギークワイヤー「AOC helps set Twitch record for 'Among Us,' the viral game developed by a tiny Seattle-area studio」、ゲーミングボルト「Among Us Had Around Half A Billion Active Players In November 2020 – Superdata」、バラエティ「The Game Awards Winners: Complete 2020 List」、エンガジェット「A massive spam attack is ruining public 'Among Us' games」、コタク「Among Us' Improbable Rise To The Top Of Twitch」"}
+{
+ "page_id": "3e6daecc3d91818fa5d3fe22ea11a913",
+ "title": "Among Us",
+ "chars": 6541,
+ "award": "2020（ザ・ゲーム・アワード 最優秀マルチプレイヤー賞・最優秀モバイルゲーム賞）",
+ "note": "新ブリーフで書き直し。オンライン対応の時期は出典で割れていた（GWOは2018年8月、ウィラードの任天堂寄稿は『PCで2018年9月』）が、イナースロース開発日誌『PC and Online Released!』が2018年8月17日付のため8月とした。『3度見捨てかけた』はYouTube動画まとめの二次情報のため使わず、代わりに一次資料の開発日誌（2020年1月6日『完成したゲームだ、もう足さない』、うち2回は過去に完成と思った）で描いた。続編中止の日誌はPuffballsUnited（ブロマンダー）名義。エイミー・リウ本人の発言は未確認で使っていない。音なし・8人までの試遊・ウィラードの『商売としては長く続けすぎた』・同時接続30〜50人はWikipedia経由の報道で伝聞扱い。",
+ "turning_points": [
+  "2017年11月：原型のマフィア遊び（家の中をあてもなく歩き回る）を捨て、舞台を宇宙に移して作業を加える。面白い間取りと退屈な徘徊をなくすため（ウィラード、任天堂寄稿）",
+  "2017〜18年：『船が常に危機、裏切り者は作業を妨害』の案を捨て、ゆるやかな作業に。ストレスが強すぎて推理と話し合いの時間が残らないため（同、ブロマンダー／Noclip経由 Game World Observer）",
+  "2018年8月：同じ部屋専用で『6月に完成したと思った』ゲームを、集まれない遊び手の声からオンライン対応・PC版へ。通信を全面的に作り直し約2カ月（開発日誌『PC and Online Released!』『The Data Among Us』『Among Us 2』）",
+  "2020年1月：3つ目の地図ポーラスで『完成したゲーム』と宣言し追加開発を終了、地図を値下げ・無料化して次作へ。3人・プログラマー1人で不具合が増えるため（開発日誌『Among Us and Innersloth in 2020』）",
+  "2020年8〜9月：もろいコードを理由に続編アモング・アス・ツーを発表したが、9月23日に中止し、予定内容を一作目に入れる『より難しい選択』へ。多くの人が一作目を楽しんでいるため（開発日誌『Among Us 2』『The Future of Among Us』）"
+ ],
+ "sources": "Innersloth 開発日誌（itch.io）「PC and Online Released!」（2018年8月）、「The Data Among Us」（2018年10月）、「Among Us Out of Beta and Pricing」（2018年11月）、「Polus Map Launched!」（2019年11月）、「Among Us and Innersloth in 2020」（2020年1月）、「Among Us 2」（2020年8月）、「The Future of Among Us」（2020年9月23日）、Nintendo「Among Us dev recounts how the game took flight」（フォレスト・ウィラード寄稿）、Game World Observer「How The Thing inspired Innersloth to make Space Mafia」（Noclip ドキュメンタリー経由）、Wikipedia「Among Us」（2020年の流行経緯・約5億人の推計・2020年10月の乗っ取り事件・クイックチャットの確認）、Mihaly Csikszentmihalyi『Flow』（1990）、Frederick P. Brooks Jr.『The Mythical Man-Month』（1975）"
+}

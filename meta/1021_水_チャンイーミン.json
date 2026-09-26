@@ -1,8 +1,16 @@
 {
  "page_id": "3e5daecc3d918115979de518cfd017ef",
  "title": "張一鳴（ByteDance創業者）",
- "chars": 6641,
+ "chars": 6554,
  "award": "2019（タイム誌 世界で最も影響力のある100人）",
- "note": "TIME100選出歴を確認：2019年版に選出（確認できたのは2019年のみ）。2026年1月に米TikTokは合弁会社へ移管（ByteDance持分20%未満）、2026年9月にブルームバーグ富豪指数でアジア首位と報道。",
- "sources": "TIME「Zhang Yiming: The 100 Most Influential People of 2019」、Wikipedia「Zhang Yiming」、Caixin Global「ByteDance CEO Steps Down: Zhang Yiming's Full Letter to Staff」、TechNode「Toutiao CEO apologizes for Neihan Duanzi after ordered removal from app stores」、36Kr「At 24, He Came to Beijing and Casually Invested in Zhang Yiming」、TechCrunch「Here's what you should know about the US TikTok deal」、South China Morning Post「ByteDance founder Zhang Yiming plays critical role in firm's AI push despite low profile」、Global Times「ByteDance founder Zhang Yiming's ascent to Asia's richest reflects China's AI monetization edge」、Forbes「AI Mania Makes ByteDance Cofounder Zhang Yiming China's Richest Person」、Herbert Simon (1971)「Designing Organizations for an Information-Rich World」、Watts, Duncan & Quan (2018) Psychological Science、Rochet & Tirole (2003) Journal of the European Economic Association"
+ "note": "題材を2012年の今日頭条誕生に絞って書き直した。本人発言は2019年3月の創業7周年社内講演の全文（経済観察網掲載、中国語原文）と2018年3月の清華大学経管学院の対談記録、2018年4月の謝罪文全文（財経網）で照合。2015年南開大学講演の『地下鉄で新聞を読む人が減った』は原文未確認のため伝聞として扱った。下調べでは内涵段子の公開を2012年5月としていたが、中国語版ウィキペディアは2012年3月（今日頭条は8月）。『初期約100人に編集者ゼロ』『B輪で著名投資家に15分で断られた』は界面新聞転載の二次記事、B輪資料の内容は人人都是産品経理の二次記事として伝聞扱い。『半年で12本のアプリ』（Attention Factory）は確認できず不使用。種子輪の金額は出典で食い違うため不使用。",
+ "turning_points": [
+  "2012年春：本命のニュースアプリを先に出さず、同じ技術構成の笑い話アプリ内涵段子で配信の仕組みを試し、反応を見て8月に今日頭条（中国語版ウィキペディア、界面新聞転載『张一鸣研究（上）』）",
+  "2012年：人手の編集（規模を広げられない運営）や簡単な分野選択ではなく、推薦エンジンで一人ひとりに届ける方式を選択（2019年創業7周年講演、経済観察網）",
+  "2012年末：『遺伝子も能力もない』という社内の懸念に『学べばいい』と答え、教本の電子版を断られてもネットの資料で推薦エンジン第一版を自作。同時に英語名バイトダンスを決め国際化を前提に（同講演）",
+  "2013年9月：広告システムがないまま国美の一店舗向けに広告をコードへ直書きして検証、配信半径を3キロから10キロ以上へ広げた（同講演）",
+  "2014年：他社記事の集約から、書き手が直接載せる頭条号へ。全社員で書き手を招いた（同講演）",
+  "2014〜2016年末：短い動画を2014年に迷い2015年に見送り、2016年末に2本・国内外同時で再開しドウインへ（同講演）"
+ ],
+ "sources": "経済観察網「张一鸣讲7年创业故事：自己想象着写出了第一版推荐引擎，对多闪没有预期」（2019年創業7周年講演全文）、清華大学経済管理学院「清华经管学院院长钱颖一教授对话今日头条创始人兼CEO张一鸣」（2018年）、財経網「内涵段子被永久关闭，张一鸣凌晨发道歉信反思」（謝罪文全文、2018年）、界面新聞（蓝海经济观察転載）「张一鸣研究（上）」、人人都是产品经理「2013年的时候，张一鸣在想什么？」、中国語版ウィキペディア「张一鸣」「今日头条」「内涵段子」、自由亜洲電台「内涵段子涉低俗遭封杀 网友车围广电怒鸣笛」、Eric Ries『The Lean Startup』（2011）、Paul Graham「Do Things that Don't Scale」（2013）、Cass Sunstein『Infotopia』（2006）"
 }

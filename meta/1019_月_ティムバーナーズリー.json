@@ -1,8 +1,16 @@
 {
  "page_id": "3e5daecc3d91819da5e8fab8f3b5e7d7",
  "title": "ティム・バーナーズ＝リー",
- "chars": 6642,
- "award": "1999（タイム誌「20世紀で最も重要な100人」）／2004 ナイト叙勲／2016 チューリング賞",
- "note": "",
- "sources": "CERN「The birth of the Web」、ウィキペディア英語版「Tim Berners-Lee」、ウィキペディア英語版「This Is for Everyone」、スラッシュドット「Tim Berners-Lee Urges New Open-Source Interoperable Data Standard, Protections from AI」（ガーディアン寄稿の要約）、テックレーダー「35 years ago today, the World Wide Web changed our lives forever」、パン マクミラン「Pan Macmillan to publish the memoir of Tim Berners-Lee」、W3C「Three challenges for the web, according to its inventor」（2017年公開書簡）、国際電気通信連合「Facts and Figures 2024」"
+ "chars": 6626,
+ "award": "2016（チューリング賞）。1989年に提案、1990年に最初のブラウザ兼エディタとサーバを作成、1993年にCERNが技術の無償公開を宣言",
+ "note": "下調べの前提を一部訂正・補足：CERN再現プロジェクトのHistoryページは1989年3月の提案をカイユーと共に回覧したと書くが、提案書原文の著者はバーナーズ＝リー単独で、カイユーの参加は1990年（本人FAQ、W3C年表）。『センドールが1990年にNeXT購入を認めた』はW3C公式年表『A Little History of the World Wide Web』で1990年9月と確認できたので台本に入れた。OWLのイアン・リッチーの件はリッチー本人のTED講演（2011）で原文確認し『リッチーの回想では』と明示。リッチーは『当時のブラウザは画像も書体もなかった』と語るが本人FAQとは食い違うため影の側面で扱った。DynaTextの件は一次資料で確認できず使っていない。『Weaving the Web』本文は未読。award欄のチューリング賞（2016年度）は本台本の本文では扱っていない。",
+ "turning_points": [
+  "1989年3月：情報整理の方式として、階層（VMS/HELP、Unixファイルシステム、CERNDOC）とキーワード方式を退け、リンクでつながる網の目を選択／階層は現実を写せず、キーワードは人によって選ぶ語が違うため（『Information Management: A Proposal』原文）",
+  "1989年3月〜1990年9月：上司マイク・センドールが『Vague but exciting』と書き込み、承認も却下もせず非公式に続行を許す。1990年9月にNeXTの購入を認め、書き始める許可（CERN WorldWideWeb 再現プロジェクト History、W3C『A Little History of the World Wide Web』、本人FAQ）",
+  "1990年：命名で『Mine of Information（MOI）』『The Information Mine（TIM）』『Information Mesh（Messに聞こえる）』を捨て、何でも何にでもつながる中心のない形と世界規模を表す World Wide Web に（本人FAQ、提案書の本人注記）",
+  "1990年：エンクワイアの双方向リンクではなく一方向リンクを選択／外部へのリンクを内部と同じ容易さにし、二つの網を全体の変更なしに一つにするため。リンク切れは受け入れる（本人FAQ）",
+  "1989〜1990年11月：既存の商用ハイパーテキスト製品を組み合わせる計画（1989年提案、1990年11月12日の再提案）から、OWL社イアン・リッチーに断られるなどを経て自作を続行（提案書原文、Ian Ritchie TED講演）",
+  "1989〜1990年12月：見栄えより汎用性を優先し、NeXT上のブラウザ兼エディタと並行して、どの端末でも使える文字だけのブラウザを用意（提案書原文、W3C年表）"
+ ],
+ "sources": "Tim Berners-Lee「Information Management: A Proposal」（1989年3月、1990年5月、本人注記つきHTML版）、Tim Berners-Lee & Robert Cailliau「WorldWideWeb: Proposal for a HyperText Project」（1990年11月12日）、Tim Berners-Lee「Frequently asked questions」（W3C個人ページ）、W3C「A Little History of the World Wide Web」、CERN「WorldWideWeb NeXT Application – History」（2019年再現プロジェクト）、Ian Ritchie「The day I turned down Tim Berners-Lee」（TED、2011年）、Richard Gabriel「Worse is Better」、Stuart Kauffman と Steven Johnson『Where Good Ideas Come From』の隣接可能性"
 }

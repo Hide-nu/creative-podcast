@@ -1,0 +1,15 @@
+{
+ "page_id": "3e5daecc3d9181fa8bf9e4400ce71491",
+ "title": "Cursor（エニースフィア）",
+ "chars": 6635,
+ "award": "2023年公開のAIコードエディタ。公開から約20か月でARR1億ドル（YC番組での紹介）",
+ "note": "CAD期間の長さは出典で食い違う（YC番組のTruell本人は『約1年の荒野』、a16z対談の記事は『6か月』）ため両論を併記。自前エディタからVS Codeベースへの切り替え時期・理由は未確認のため『記録にほとんど残っていない』とした。コパイロット開発の裏話はTruell本人が『細部は間違っているかもしれない』と断った伝聞として扱った。YC番組の書き起こしは第三者サイト（The Singju Post）経由。",
+ "turning_points": [
+  "2021〜22年：AIで知識労働を変える会社を、得意なプログラミングでなく機械工学（CAD向け3D自動補完）から始めた／『Cursor for X』構想の一番手。Codexの学習費用を約9万〜10万ドルと試算して投資家を説得（YC How to Build the Future、a16z対談）",
+  "2022年：CADを置いてプログラミングへ戻る／理由は機械工学に熱中できず、3Dの科学とデータが未成熟、『創業者と市場の相性がひどかった』。他社の進歩が遅く見え、『5年後には全プログラミングがモデルを通る』という信念に一貫させた（YC、a16z、Lex Fridman #447）",
+  "2022年末：GPT-4早期アクセスを機に、拡張機能ではなくエディタそのものを作ると決定／プラグインではエディタを制御できる範囲が限られる（Sualeh Asif）、Copilotがゴーストテキストのために本体改修を要したという伝聞（Truell）。当時は批判を受けた（Lex、YC）",
+  "2023年：最初は自前エディタをゼロから作って公開し、その後VS Codeベースへ切り替え。着手から公開ベータまで約3か月、その後約1年小規模に改善（YC）",
+  "2023年10月→2024年11月：『自動補完はCopilotが上手い、その先の機能に集中』（Sanger、TechCrunch）から、次の修正を予測する補完へ回帰し、Supermavenを迎え入れた（TechCrunch、Lex）"
+ ],
+ "sources": "Lex Fridman Podcast #447「Cursor Team: Future of Programming with AI」書き起こし、Y Combinator「How to Build the Future: Michael Truell」（The Singju Post 書き起こし）、Founderboat「Cursor CEO on Scaling Through 'Mayhem'」（a16z対談の要約）、TechCrunch「Anysphere raises $8M from OpenAI to build an AI-powered IDE」（2023年10月）、TechCrunch「Anysphere acquires Supermaven to beef up Cursor」（2024年11月）、Lenny's Podcast「The rise of Cursor」、The Register「Microsoft subtracts C/C++ extension from VS Code forks」（2025年4月）、The Register「Cursor AI support bot hallucinated its own company policy」（2025年4月）、Cursor Blog「Clarifying our pricing」（2025年7月）、Clayton Christensen『イノベーションへの解』、Saras Sarasvathy『エフェクチュエーション』"
+}

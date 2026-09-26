@@ -1,0 +1,15 @@
+{
+ "page_id": "3e5daecc3d9181669bf5df5689327191",
+ "title": "ユーチューブ",
+ "chars": 6662,
+ "award": "2006（グーグルが約16億5千万ドルで買収。タイム誌2006年12月25日号で創業者特集『The YouTube Gurus』）",
+ "note": "下調べなしで一次情報から構成。創業の発端は証言が割れるため、カリム説（2004年のスーパーボウルと大津波、USA Today 2006）とハーリー／チェン説（夕食会、タイム誌2006）を併記し、チェン自身が夕食会の話は宣伝で強められたと認めた点を明示。出会い系からの転換はカリム（2007年イリノイ大卒業式スピーチ、Motherboard・同大CS学科記事経由）とチェン（2016年SXSW、CNET経由）の証言。クレイグスリストの謝礼は20ドル（カリム）と100ドル（別記録）で揺れるため台本で明示。埋め込みコード（2005年7月）とフラッシュ採用を誰がどう決めたかは創業者本人の説明を確認できず、台本では『記録にほとんど残っていない』とした。ネタ帳の『イリノイ大講演』は2006年のACM講演と2007年の卒業式スピーチの2つがあり、確認できたのは後者。",
+ "turning_points": [
+  "2005年2月：データベース事業の案ではなく動画共有サイトを選ぶ。初期構想はホットオアノットの動画版（カリム説とハーリー／チェン説が割れる。USA Today 2006、タイム誌2006）",
+  "2005年4〜6月：出会い系『チューン イン、フック アップ』として公開も5日間投稿ゼロ、クレイグスリストで謝礼を出しても応募なし。出会い系を捨て、使い道を利用者に委ねて6月までに汎用化／ハーリー『狭すぎた』（カリム卒業式スピーチ2007、チェンSXSW 2016、タイム誌）",
+  "2005年：画質や審査より手軽さ。ソフト不要・登録不要で視聴、承認待ちなしで即公開、フラッシュ形式に統一、事前審査なし（グーグル ビデオとの比較：USA Today 2005、タイム誌2006）",
+  "2005年7月：動画ごとに埋め込みコードを付け、マイスペースへの貼りつけで成長（タイム誌2006、ヒットワイズ）",
+  "2005〜2006年：広告主の要望があっても動画前の広告を流さない／ハーリー『コマーシャルを無理やり見せるより良い方法がある』（Adweek 2006、タイム誌2006）"
+ ],
+ "sources": "Time「The YouTube Gurus」（John Cloud、2006年12月25日）、USA Today「Surprise! There's a third YouTube co-founder」（2006年10月11日）、USA Today「Video websites pop up, invite postings」（2005年11月21日）、University of Illinois CS「YouTube co-founder tells grads to be persistent, take risks」（2007年卒業式）、Motherboard「10 Years Ago Today, YouTube Launched as a Dating Website」（2015）、CNET「YouTube started as an online dating site」（2016）、The Guardian「YouTube was meant to be a video-dating website」（2016）、Adweek「YouTube Shuns Pre-Roll Video Advertising」（2006）、Coding Horror「Did YouTube Cut the Gordian Knot of Video Codecs?」、Business Insider（2015）、Wikipedia「History of YouTube」「Jawed Karim」（年表、バイアコム訴訟、2021年の説明文書き換えの確認）、Eric von Hippel ユーザー イノベーション、Clayton Christensen 破壊的イノベーション"
+}

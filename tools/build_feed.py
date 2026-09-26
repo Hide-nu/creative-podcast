@@ -22,7 +22,19 @@ today = dt.datetime.now(JST).date()
 if "--today" in sys.argv:
     today = dt.date.fromisoformat(sys.argv[sys.argv.index("--today") + 1])
 show_all = "--all" in sys.argv
-live = [e for e in eps if show_all or dt.date.fromisoformat(e["date"]) <= today]
+# podcast.json の batch: {"release": "YYYY-MM-DDTHH:MM", "until": "YYYY-MM-DD"} があれば、
+# until までの回を release の時刻にまとめて公開する（放送日順に1分ずつずらして並び順を保つ）
+batch = cfg.get("batch")
+b_until = dt.date.fromisoformat(batch["until"]) if batch else None
+b_release = dt.datetime.fromisoformat(batch["release"]).replace(tzinfo=JST) if batch else None
+now = dt.datetime.now(JST)
+def in_batch(e):
+    return batch and dt.date.fromisoformat(e["date"]) <= b_until
+live = [e for e in eps if show_all
+        or (b_release <= now if in_batch(e) else dt.date.fromisoformat(e["date"]) <= today)]
+eps_sorted = sorted(eps, key=lambda e: e["date"])
+number = {e["date"]: i + 1 for i, e in enumerate(eps_sorted)}
+batch_n = sum(1 for e in eps if in_batch(e))
 live.sort(key=lambda e: e["date"], reverse=True)
 
 def hms(s):
@@ -38,7 +50,10 @@ def desc(e):
 items = []
 for e in live:
     d = dt.date.fromisoformat(e["date"])
-    pub = dt.datetime(d.year, d.month, d.day, cfg.get("release_hour_jst", 5), 0, tzinfo=JST)
+    if in_batch(e):
+        pub = b_release - dt.timedelta(minutes=batch_n - number[e["date"]])
+    else:
+        pub = dt.datetime(d.year, d.month, d.day, cfg.get("release_hour_jst", 5), 0, tzinfo=JST)
     size = os.path.getsize(os.path.join(ROOT, "docs", e["file"]))
     items.append(f"""  <item>
     <title>{escape(e['title'])}</title>
@@ -48,6 +63,7 @@ for e in live:
     <guid isPermaLink="false">asa-pod-{e['date']}</guid>
     <pubDate>{format_datetime(pub)}</pubDate>
     <itunes:duration>{hms(e['duration'])}</itunes:duration>
+    <itunes:episode>{number[e['date']]}</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>{'true' if cfg['explicit'] else 'false'}</itunes:explicit>
   </item>""")

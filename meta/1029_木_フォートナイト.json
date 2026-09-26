@@ -1,8 +1,16 @@
 {
  "page_id": "3e6daecc3d9181fdb35dcbc0c4d57fe4",
  "title": "フォートナイト",
- "chars": 6514,
- "award": "2020（トラビス・スコットのゲーム内ライブに初回1230万人が同時参加、ギネス世界記録「ビデオゲーム内最大の音楽コンサート」）",
- "note": "",
- "sources": "ウィキペディア英語版「Fortnite」、ウィキペディア英語版「Fortnite Battle Royale」、ピーシーゲーマー「Fortnite Battle Royale was developed in just two months」、シーエヌビーシー「Fortnite anniversary: Epic Games was founded by a college kid」、フォーブス「A Staggering Number Of People Saw Fortnite's Travis Scott Astronomical Event」、ウィキペディア英語版「Fortnite Marshmello concert」、ギネス世界記録「Largest music concert in a videogame」、ローブ アンド ローブ「Fortnite Video Game Maker Settles FTC Privacy, Deception Claims for Record $520 Million」、シーエヌビーシー「Fortnite approved by Apple, returns to U.S. App Store 5 years after removal」、ゲームインフォーマー「Fortnite Had Its Biggest Day Ever With 44 Million Players」"
+ "chars": 6592,
+ "award": "2020（トラビス・スコットのゲーム内ライブ「アストロノミカル」の初回に約1200万人が同時参加。エピック ゲームズ発表）",
+ "note": "新ブリーフで書き直し。本人の一次発言はバトルロイヤル化（マスタードのGame File取材をKotakuが引用）と2017年の報道向け発言に偏る。ティム・スウィーニー本人の判断理由の一次発言は見つからず、車中の決定はマスタードの回想として扱った。ゲームジャム起源・組み立てのミニゲーム廃止・公開数週間前の未完成判断・無料化決定の理由はWikipedia経由の報道まとめで、出典記事の原文は未照合のため『開発の記録によれば』『伝えられています』とした。テンセント出資は約40%・約3.3億ドル（PCGamesN）。PUBG側の訴訟は後に取り下げ（Wikipedia）。",
+ "turning_points": [
+  "2012年頃：アンリアル・エンジン3のまま作る道を捨て、開発中のエンジン4に乗り換え。『野心が大きい』ため。代償として起動もままならない時期が続いた（マスタード、ダレン・サグ、PCGamesN）",
+  "2012年：箱売りの一本ずつ開発から、テンセント出資を受けてサービス型・基本無料へ転換し、フォートナイトをその先陣に（マスタード、PCGamesN）",
+  "2014年：『かなり動く試作』で出さず、RPG的な深さを加えるためさらに約3年かける判断（マスタード、PCGamesN）",
+  "2017年半ば：ディズニーとの会議へ向かう車中で、本編に全力を注ぐ道ではなくチームを付け替えてバトルロイヤルを作ると決定。3時間で1枚の設計書、スクールバスから空飛ぶバス（マスタード、Kotaku／Game File）",
+  "2017年7〜9月：戦場が狭まる形式でも組み立ての仕組みを残す。結果としてPUBGとの最大の違いに（Wikipedia経由の開発記録）",
+  "2017年9月：有料本編内の対戦モードの予定を、公開約2週間前に単独の基本無料作品に変更。約2カ月で開発、アンリアル・トーナメントのチームを投入（エド・ゾブリストGDC 2018、PCGamesN）"
+ ],
+ "sources": "Kotaku「Fortnite Battle Royale Was Designed In The Back Of An Uber」（Game File のマスタード取材を引用）、PCGamesN「Fortnite's Battle Royale mode was developed in just two months」（ゾブリストGDC 2018）、PCGamesN「From vapourware to 40 million players」、Ars Technica「Fortnite's years of delays end with not-free-to-play version coming in July」（2017年6月）、Wikipedia「Fortnite」「Fortnite Save the World」「Fortnite Battle Royale」（開発経緯・ブルーホールの懸念・PUBG社の訴え取り下げの確認）、米連邦取引委員会 報道発表（2022年12月19日）、Eric Ries『The Lean Startup』（2011）、James G. March「Exploration and Exploitation in Organizational Learning」（1991）"
 }

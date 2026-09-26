@@ -1,0 +1,15 @@
+{
+ "page_id": "3e5daecc3d9181d18603d5e5af34ef8a",
+ "title": "Instagram",
+ "chars": 6514,
+ "award": "2010年10月公開、2カ月で登録100万人。2012年4月にFacebookが約10億ドルで買収",
+ "note": "フィルター誕生の場面は語りが2通り。Systrom本人（Tim Ferriss Show 2019）は『妻』と呼ぶが、Frier『No Filter』では当時は恋人のNicole Schuetz（のちの妻）。同一人物なので両方を併記した。Systrom本人は『最初のInstagramにはフィルターがなかった』と語る。Burbnの機能を切った月は未確認のため台本では明示していない。",
+ "turning_points": [
+  "2010年（Burbn開始から約3カ月後）：Burbnに機能を足すのでなく、利用者が気に入る上位3つ（予定・写真・ごほうび）を書き出し写真だけに丸をつけ、他をすべて削る。理由は写真だけが『誰も手をつけていない場所』だったから（Systrom、Tim Ferriss Show／Frier『No Filter』）",
+  "2010年：試作『Scotch』の横スワイプを数日使って迷い、一度Burbnに戻ったうえで、Twitter型の縦に流れる新着順フィードを採用。306ピクセルの正方形、iPhoneのみ（Frier『No Filter』）",
+  "2010年：Facebook型の相互友達でなくTwitter型の片方向フォローを選択（興味でつながれるため）。リシェア機能は『他人の作品を自分の名前で広めてよいか』で迷い、公開後まで保留（同）",
+  "2010年7月：Todos Santosでの休暇中、Schuetzの『写真に自信がない、フィルターを入れたら』を受け、フィルターを外部アプリ任せにせずアプリ内に入れると決め、X-Pro IIを自作。7月16日に最初の写真（Frier、Systrom）",
+  "公開後：データ分割で凝った自動シャーディング技術に4カ月費やして失敗し、Kriegerが偶数奇数で分ける単純なファイルを2時間で書いて解決（Systrom、Tim Ferriss Show）"
+ ],
+ "sources": "The Tim Ferriss Show「#369: Kevin Systrom — Tactics, Books, and the Path to a Billion Users」書き起こし（2019）、Engadget「Hitting the Books: The story behind Instagram's most famous filter」（Sarah Frier『No Filter』抜粋）、Startup Archive「How Kevin Systrom pivoted a failed check-in app into Instagram」、Wikipedia「Instagram」、The Wall Street Journal「Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show」（2021）、Eric Ries『The Lean Startup』、Albert Bandura『Self-Efficacy』"
+}

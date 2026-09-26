@@ -1,8 +1,17 @@
 {
  "page_id": "3e5daecc3d91819b9477c86f46c85f99",
  "title": "スティーブ・ジョブズ",
- "chars": 6593,
- "award": "2009（フォーチュン誌 ディケイドのCEO）、1985年アメリカ国家技術賞、2022年大統領自由勲章（没後）",
- "note": "",
- "sources": "Stanford Report「'You've got to find what you love,' Jobs says」（2005年スタンフォード卒業式スピーチ全文）、Wikipedia「Steve Jobs」、Britannica Money「Steve Jobs」、Biography.com「Steve Jobs: Biography, Apple Cofounder, Entrepreneur」、Fortune「CEO of the Decade: Steve Jobs」、Entrepreneur「How Steve Jobs Saved Apple」、Celebrity Net Worth「In 1997 Microsoft Saved Apple From The Brink」、Ed Catmull『Creativity, Inc.』、Iyengar & Lepper (2000) Journal of Personality and Social Psychology、Scheibehenne, Greifeneder & Todd (2010) Journal of Consumer Research、Kurosu & Kashimura (1995) CHI、Akerlof & Kranton (2000) Quarterly Journal of Economics"
+ "chars": 6600,
+ "award": "1984（初代マッキントッシュ発売。最初の100日で約7万台）、1985年アメリカ国家技術賞",
+ "note": "題材を初代マッキントッシュ（1979〜1984年1月）に絞って書き直した。経緯の多くはアンディ・ハーツフェルドのFolklore.org（当事者だがほぼ本人視点）。ジェフ・ラスキンはマウス反対説や6809固執説に反論しているため、台本ではマウスの件と角丸の件を『証言が割れる』として両者を示した。ラスキンの『ジョブズは早く出せると言って任されたが1984年までかかった』は1993年の本人注釈。最初の100日で約7万台はアップル発表の二次報道。",
+ "turning_points": [
+  "1980年末：安い6809を守らず、トリブルの提案とスミスの回路の工夫で68000を採用／代わりに目標価格が1000ドルから1500ドルへ（Folklore.org『Five Different Macintoshes』『Price Fight』、Raskin『Genesis and History of the Macintosh Project』）",
+  "1981年1月〜：ジョブズが引き継ぎ、キー操作ではなくマウスを標準に。ラスキンは『マウスが最良とは思わなかった』と反論し夏に離脱（Folklore.org『The Father Of The Macintosh』本文とラスキンのコメント、Raskin『Genesis』）",
+  "1981年5月：アトキンソンの『難しいし要らない』に対し、ジョブズが散歩に連れ出して角丸長方形を実装させた（Folklore.org『Round Rects Are Everywhere!』）",
+  "1982年8月：スミスが特注チップ（Integrated Burrell Machine）を最初のシリコンが動かず断念しPAL方式へ戻す／ただし128K・16ビットバス・512×342の画面は残した（Folklore.org『Five Different Macintoshes』）",
+  "1983年夏：ツイギー断念後、ジョブズはアルプスとの自社3.5インチ開発を指示、ベルビルとクロウは隠れてソニーを並行／アルプスの見積もり18か月でソニーを採用（Folklore.org『Quick, Hide In This Closet!』）",
+  "1983年10月：1995ドル案に対しスカリーが2495ドルを主張、ジョブズが折れる（Folklore.org『Price Fight』）",
+  "1984年1月：見本版ソフトで先に出す案を退け、発売日を守って出荷（Folklore.org『Real Artists Ship』）"
+ ],
+ "sources": "Folklore.org「Five Different Macintoshes」「Good Earth」「Texaco Towers」「Reality Distortion Field」「Round Rects Are Everywhere!」「Busy Being Born」「Signing Party」「Quick, Hide In This Closet!」「Price Fight」「90 Hours A Week And Loving It!」「Real Artists Ship」「The Father Of The Macintosh」（アンディ・ハーツフェルド、ジェフ・ラスキンのコメント含む）、Stanford University Libraries「Making the Macintosh」所収 Jef Raskin「The Genesis and History of the Macintosh Project」（1981年、1993年注釈）、Cult of Mac「Mac's first 100 days prove a roaring success」、Kahneman & Tversky「Intuitive prediction: biases and corrective procedures」（1979）、Ward, Liker, Cristiano & Sobek「The Second Toyota Paradox」（Sloan Management Review、1995）"
 }

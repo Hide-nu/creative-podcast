@@ -1,0 +1,17 @@
+{
+ "page_id": "3e5daecc3d91815086d8c041ffe708a7",
+ "title": "アイフォーン",
+ "chars": 6589,
+ "award": "2007（1月9日マックワールドで発表、6月発売。物理キーボードなしのマルチタッチ携帯電話として以後のスマートフォンの形を決定づけた）",
+ "note": "下調べの『P1とP2の2チームが4〜5週間競ってP2が勝った』という構図は、ファデル本人がThe Verge（2017）で『競ったのはチームではなく考え方、16〜17の案があった』と否定しているため、証言が割れる点として両論を明示。4〜5週間はチーム対決の期間ではなく、ジョブズに言われてホイール型の電話をさらに試した期間（ファデル談）として扱った。マイクロソフト社員との一件は日付未確認と台本で明示。ケン コシエンダのキーボード ダービーは原文の出典を確認できなかったため使っていない。",
+ "turning_points": [
+  "時期未確認：ペンで操るタブレットではなく指のマルチタッチを選ぶ／ジョブズ『本当のやり方を見せてやろう』（フォーストール、コンピューター歴史博物館 2017）",
+  "2005年：アイポッドのクリックホイールで操る電話を試作するも、番号を押せないことが致命的で断念。ジョブズの指示でさらに4〜5週間ずつ試した末、画面の電話へ（ファデル、The Verge 2017、NYT Magazine 2013）",
+  "2005〜06年：基本ソフトでリナックス案ではなくマックの基本ソフトを10分の1に縮める案を選択（ファデル、The Verge 2017、NYT Magazine 2013）",
+  "2005〜06年：物理キーボードを捨て、ガラス上の仮想キーボードと大画面を選ぶ（ファデル、The Verge 2017、コンピューター歴史博物館 2017）",
+  "2004〜06年：携帯向けの簡略版ウェブではなく本物のウェブを載せる／フォーストール『赤ちゃんのウェブ、劣化版のウェブ』（AllThingsD、2012年法廷証言）",
+  "2006年初め：アルミ一体の試作機を電波が通らないため断念、2サイズ案も退け一機種に集中（NYT Magazine 2013、カーニーとルビンスタインの証言）",
+  "2007年1月：未完成のまま、黄金の道と常時5本の電波表示で発表に踏み切る（NYT Magazine 2013、グリニョンの証言）"
+ ],
+ "sources": "AllThingsD「Apple's Scott Forstall on How 'Project Purple' Became the iPhone」（2012）、Computer History Museum「Creating Magic: A Conversation with Original iPhone Engineers & Software Team Lead Scott Forstall」（John Markoff、2017）、The Verge「Tony Fadell tells us the story of the iPod-based iPhone prototype」（2017）、AppleInsider「Video shows early competing iPhone prototypes developed by Tony Fadell and Scott Forstall」（2017）、The New York Times Magazine「And Then Steve Said, 'Let There Be an iPhone'」（Fred Vogelstein、2013）、Ben Shneiderman「Direct Manipulation」（1983）、Allen Ward ほか「The Second Toyota Paradox」（1995）"
+}

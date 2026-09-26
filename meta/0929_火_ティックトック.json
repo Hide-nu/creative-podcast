@@ -1,0 +1,14 @@
+{
+ "page_id": "3e5daecc3d9181558202cc358163832a",
+ "title": "TikTok",
+ "chars": 6588,
+ "award": "世界で最も使われる短尺動画アプリのひとつ（母体のMusical.lyは2015年7月に米App Store1位）",
+ "note": "誕生のきっかけは証言が割れる。Alex Zhu本人は『電車で十代を見た』と語るが、Brennan『Attention Factory』や仏報道はパリのアプリMindieの影響を指摘。台本では両論を出典つきで併記した。買収額は報道により8億〜10億ドル。『売り文句を口パクに絞った』『20社超の投資家に断られた』はZhuの講演を翻訳・要約した二次記録（China Playbook）に依拠。",
+ "turning_points": [
+  "2014年：教育動画アプリCicadaが失敗し資金が約8%に。投資家に返金して畳むのでなく、残りで新案を試すと決め、30日でMusical.lyを作って7月公開。教訓は『分ではなく秒』（Business Insider 2016、Zhu談）",
+  "2014〜15年：上海のチームだが中国市場でなく米国の十代を主対象に。Louis Yang『米国市場が我々を選んだ』、Zhu『十代は時間があり創造的で、配布コストがゼロ』。WeChatグループで数百人と毎日対話する参加型デザイン（Brennan『Attention Factory』、Greylock対談ノート）",
+  "2015年：伸び悩む中、多機能化でなく売り文句を『音楽動画の道具』から『口パク』に絞り、見本動画・厳選動画・初投稿通知を導入。同年4月、共有先で切り取られていたロゴの位置を変更し、7月6日に米App Store1位（China Playbook、Business Insider）",
+  "2016〜18年：ByteDanceは初期数字の弱いDouyinを、チャン イーミンの判断で継続し推薦エンジンを移植。2017年11月にMusical.lyを買収、2018年8月にTikTokへ統合し一部機能を削除（Brennan『Attention Factory』、Richard Priceの書評引用）"
+ ],
+ "sources": "Business Insider「How a failed education startup turned into Musical.ly, the most popular app you've probably never heard of」（2016、Yahoo Finance転載）、blakeir「Alex Zhu (TikTok)」（Josh ElmanによるGreylock対談のノート）、China Playbook「Notes on Alex Zhu of musical.ly」、Richard Price「Review Of The Attention Factory, by Matthew Brennan」、Matthew Brennan『Attention Factory』（2020）、The New York Review of Books「Planet TikTok」（2024）、Wikipédia「Mindie」、FTC「Video Social Networking App Musical.ly Agrees to Settle FTC Allegations」（2019）、Saras Sarasvathy『Effectuation』、Everett Rogers『Diffusion of Innovations』"
+}

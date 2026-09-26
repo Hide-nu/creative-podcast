@@ -1,8 +1,16 @@
 {
  "page_id": "3e5daecc3d9181e2bdb2cbe1c15e446b",
  "title": "Nike Dream Crazy",
- "chars": 6559,
- "award": "2019（カンヌライオンズ グランプリ2部門：アウトドア、エンターテインメント・ライオンズ・フォー・スポーツ）、2021 クリエイティブ・エフェクティブネス グランプリ、2019 エミー賞優秀コマーシャル賞",
- "note": "",
- "sources": "Adweek「Nike's Kaepernick Work Wins Top Effectiveness Lion at Cannes」（2021年）、Contagious「Cannes Lions: Creative Effectiveness Winners 2021」、TIME「Nike Sales Increase 31% After Kaepernick Ad Despite Backlash」（Edison Trends調べ）、Sports Illustrated「Nike Stock Closes Down 3.16% On Day After Colin Kaepernick Ad Campaign Announcement」、CNBC「Nike shares fall as backlash erupts over new ad campaign featuring Colin Kaepernick」、Fox News「Nike commercial featuring Colin Kaepernick wins Emmy」（2019年）、CBS News「'Dream Crazy:' Nike Releases Full Ad Featuring Colin Kaepernick」、Haidt (2012) The Righteous Mind、Chen & Berger (2013) \"When, Why, and How Controversy Causes Conversation\"、Belk (1988) \"Possessions and the Extended Self\"、Bandura (1977) 自己効力感、Goffman (1959) 日常生活における自己呈示"
+ "chars": 6669,
+ "award": "2019（カンヌライオンズ グランプリ2部門：アウトドア、エンターテインメント・ライオンズ・フォー・スポーツ）、2021 クリエイティブ・エフェクティブネス グランプリ（続編を含む『Crazy Dreams』として）、2019 エミー賞優秀コマーシャル賞",
+ "note": "新ブリーフで書き直し。経緯の主な出典はニューヨーク・タイムズ2018/9/26報道（CNBC、Fortune、Yahoo Sports、The Comeback経由。原文は未読）とフィル・ナイトのスタンフォードGSB講演。NYT報道は元社員の匿名証言で、Nikeは『最終決定はグループで行う』と回答しているため台本でも一つの見方として扱った。契約打ち切りの再浮上の時期は報道間で幅があり、そう明示した。W+K内部の台本の変遷・ボツ案・発案者は一次情報で確認できず、台本で『記録にほとんど残っていない』と明示。三人監督体制の理由は監督ランス・エイコードの証言（SHOOT）。",
+ "sources": "Stanford GSB「Phil Knight on the Controversial Kaepernick Ad and Nike's Never-Give-Up Attitude」、CNBC「Nike nearly dropped Colin Kaepernick before putting him in its anniversary ads」、Fortune「Colin Kaepernick Nike ad backstory」、Yahoo Sports「Report: Nike nearly cut ties with Colin Kaepernick before making him the face of ad campaign」、The Comeback「Nike considered dropping Colin Kaepernick before changing course to feature him」（いずれもNew York Times 2018年9月26日報道の紹介）、SHOOTonline「Fall 2018 Director's Profile: Lance Acord」、CBS News/AP「Colin Kaepernick Inks Multi-Year Deal With Nike」、CNBC「Meet the changemakers in Nike's controversial new 'Just Do It' campaign」、Wieden+Kennedy「Nike: Dream Crazy」、TIME「Nike Sales Increase 31% After Kaepernick Ad」（Edison Trends）、Ad Age「Nike's 'Dream Crazy' Colin Kaepernick billboard wins Outdoor Grand Prix」、Ad Age「Nike's 'Dream Crazy' takes inaugural Entertainment for Sport Grand Prix」、PRWeek「Cannes Lions: W&K takes Creative Effectiveness Grand Prix」、Deadline「Nike 'Dream Crazy' Ad Wins Emmy」、Wikipedia「Just Do It」、Chen & Berger (2013) \"When, Why, and How Controversy Causes Conversation\"、Spence (1973) \"Job Market Signaling\"",
+ "turning_points": [
+  "2017年春〜夏：チームのないキャパニックとの契約をスポーツマーケティング幹部が打ち切りと決定→広報責任者ナイジェル・パウエルが『NFL側についたと見られれば反発を受ける』と覆し継続。ただし名簿に残すだけで広告にも商品にも使わず2019年に静かに満了させる中間策（NYT報道、CNBC・Yahoo Sports・The Comeback経由）",
+  "2018年：キャパニック側の弁護士が『契約は起用を求めている』と異議→6月ニューヨークでの話し合いを経て幹部が起用を検討（同）",
+  "2018年夏：W+Kが30周年キャンペーンの顔に強く推し、ナイキは静かな満了ではなく複数年契約への結び直し（広告起用・専用衣料品・慈善活動への寄付）を選択。NFL契約の縮小予定と狙う客層も背景（同、CBS/AP）",
+  "2018年夏：台本の承認に長い時間がかかり準備期間が短くなったため、一人の監督でなくエイコード、ルベツキ、ウェーバーの三人の監督・三つの制作チームで分担（SHOOT『Fall 2018 Director's Profile: Lance Acord』）",
+  "2018年8〜9月：パーカーは『ゴクリ』、広告部門は『間に合わせるなら24時間』。ナイトはレブロン・ジェームズとの会話（息子が警官に撃たれる不安）を理由の一つに承認。『道の真ん中を行ってはいけない』（Stanford GSB）",
+  "2018年9月3日：ナイキの発表ではなくキャパニック本人の投稿から公開し、全編はNFL開幕戦中継で放送（理由は記録なし）。画像の合意は8月27日、レイシー・ベイカーへの連絡は8月半ば（CNBC、Yahoo Sports）"
+ ]
 }

@@ -1,0 +1,17 @@
+{
+ "page_id": "3e5daecc3d9181b599bde1f505e1b698",
+ "title": "デュオリンゴ",
+ "chars": 6649,
+ "award": "2013（アップル アップストア iPhone App of the Year）。世界で最も使われている語学アプリ、2021年上場",
+ "note": "下調べなしで一次情報から構成。経緯の主な出典はフォン アン本人（TEDxCMU 2011講演原文、Tim Ferriss Show 2022文字起こし、Acquired ACQ2対談、ACM ByteCast文字起こし）と元CPOホルヘ マサルの寄稿。翻訳モデル終了の年は本人の記憶（『2013年ごろ』）として扱った。D1継続率13%→約50%は本人が『記憶違いかも』と断っているため台本でもそう明示。2018年以降の分岐点はフォン アンではなくマサルの証言として明示。",
+ "turning_points": [
+  "2009〜2011年：リキャプチャ売却後、数学ではなく語学（特に英語）を教えると決定／英語は収入を倍にしうる、15億人が学びたい（ACM ByteCast）",
+  "2011年：学習者が払う（ロゼッタストーン500ドル）モデルを捨て、学びながらウェブを翻訳し翻訳を売る『時間で払う』モデルを選択（TEDxCMU講演）",
+  "2011年：共同創業者が自作の30分レッスンを退屈で続けられず、内容の正しさより動機づけを優先。3分レッスン、進捗バー、正解演出、ストリークを導入（Acquired ACQ2）",
+  "2011〜2012年：ウェブ本体＋おまけアプリではなく全機能をアプリに入れ、アイフォーン版がウェブを数週間で追い越したためモバイルファーストに（Acquired ACQ2）",
+  "2013年ごろ：CNN・バズフィードとの翻訳販売をやめ、当面は収益化せず教育に集中／翻訳は値下げ競争で、開発時間を翻訳精度に奪われるため（Tim Ferriss Show #607）",
+  "2016年ごろ：取締役レイラ スターディの一言で収益化へ。学習者に課金せず広告＋有料版のフリーミアムを選ぶ。社内説得に約半年（Tim Ferriss Show #607、Acquired ACQ2）",
+  "2018年：成長鈍化に対し、パズルゲームの回数制限と友だち紹介の模倣に失敗後、ファームビル型リーグ制ランキングを簡略化して採用、ストリーク再強化（Jorge Mazal, Lenny's Newsletter）"
+ ],
+ "sources": "TEDxCMU／TED「Massive-scale online collaboration」（ルイス フォン アン、2011）、The Tim Ferriss Show「Luis von Ahn transcript #607」（2022）、Acquired「Why Duolingo Worked (with Luis von Ahn, CEO) | ACQ2」、ACM ByteCast「Luis von Ahn - Episode 14」文字起こし、Lenny's Newsletter「How Duolingo reignited user growth」（Jorge Mazal、2023）、Duolingo Blog「The habit-building research behind your Duolingo streak」（2022）、Mogavi ほか「When Gamification Spoils Your Learning」（arXiv、2022）、Kahneman & Tversky プロスペクト理論、Csikszentmihalyi フロー理論、Wikipedia「Duolingo」（公開日、アイフォーン版公開、受賞の年表確認）"
+}

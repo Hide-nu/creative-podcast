@@ -12,5 +12,9 @@
   "category": "Education",
   "subcategory": "Self-Improvement",
   "explicit": false,
-  "release_hour_jst": 5
+  "release_hour_jst": 5,
+  "batch": {
+    "release": "2026-09-26T19:29",
+    "until": "2026-11-03"
+  }
 }

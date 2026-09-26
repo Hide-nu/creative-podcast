@@ -1,8 +1,15 @@
 {
  "page_id": "3e5daecc3d918188b19dfb1b3252c1f8",
  "title": "Spotify Wrapped",
- "chars": 6588,
- "award": "2024（カンヌライオンズ クリエイティブエフェクティブネス部門ブロンズ、2023年版ラップド）。2020年ウェビー賞複数部門、2018年にスポティファイがカンヌのメディアブランドオブザイヤー",
- "note": "週テーマは「カンヌで頂点を獲った仕事」だが、ラップド自体のカンヌ・グランプリ受賞は確認できなかった。確認できたのは2023年版のカンヌ・クリエイティブエフェクティブネス部門ブロンズ、2016年末の屋外広告「Thanks, 2016. It's been weird.」の2017年カンヌ受賞、企業としての2018年メディアブランドオブザイヤー。本文ではグランプリとは書いていない。",
- "sources": "ウィキペディア「Spotify Wrapped」、テッククランチ「Spotify says Wrapped 2025 is its biggest yet with 200M users in its first day」、キャンディス・グリーンバーグ（ミディアム）「The origin and evolution of Spotify's Wrapped」、スポティファイ・ニュースルーム「That's a Wrap on Cannes Lions 2024」、B&T「Spotify Snags Major Cannes Lions Gong」、ザ・ドラム「World's Best OOH Ads Ever #12: Spotify gets real with 'Thanks 2016, It's Been Weird'」、PNAS Tamir & Mitchell「Disclosing information about the self is intrinsically rewarding」、Journal of Consumer Research Berger & Heath「Where Consumers Diverge from Others」"
+ "chars": 6585,
+ "award": "2023（カンヌライオンズ 金賞：Personalized Storytelling and Experience、2022年版アプリ内体験／デジタル・クラフト部門 銅賞）、2024（カンヌライオンズ クリエイティブ・エフェクティブネス部門 銅賞、2023年版）、2020 ウェビー賞複数部門。カンヌ・グランプリの受賞はなし",
+ "note": "前提の訂正：ラップドはカンヌ・グランプリを受賞していない。正しくは2023年カンヌで2022年版アプリ内体験が金賞（Personalized Storytelling and Experience）とデザインがデジタル・クラフト銅賞、2024年に2023年版がクリエイティブ・エフェクティブネス銅賞、2020年ウェビー賞複数部門。2017年のカンヌ受賞は2016年末の屋外広告『Thanks, 2016. It's been weird.』のもの。2024年のスポティファイのグランプリはB2B施策『Spreadbeats』でラップドではない。また『2015年 Year in Music→2016年 Wrapped』の通説は不正確で、元担当者キャンディス・グリーンバーグの記録では個人向け Year in Music は2013年開始（2011年ブログ、2012年国別特設サイト）。起源の経緯は同氏の個人ブログが唯一の詳しい記録で、本人も会社の公式説明と異なると書いているため、台本冒頭で『元担当者の証言では』と明示。ラップドへの改名の経緯・決定者は未確認と明示。",
+ "sources": "Candice Greenberg「The origin and evolution of Spotify's Wrapped」（Differ転載、元はMedium）、Spotify Engineering「Spotify Unwrapped: How we brought you a decade of data」（2020年2月）、Spotify Newsroom「Spotify Wins a Trio of Awards at Cannes Lions 2023」、Spotify Newsroom「That's a Wrap on Cannes Lions 2024!」、Spotify Newsroom「Global Head of Brand Design Rasmus Wangelin Explains the Creative Behind Spotify 2021 Wrapped」、The Drum「World's Best OOH Ads Ever #12: Spotify gets real with 'Thanks 2016, It's Been Weird'」、Wikipedia「Spotify Wrapped」（The Atlantic 2018、CNN Business 2021、Refinery29 2020、Adweek 2019 などを引用）、Eric Ries (2011) The Lean Startup、Tamir & Mitchell (2012) PNAS \"Disclosing information about the self is intrinsically rewarding\"",
+ "turning_points": [
+  "2011年12月→2012年：国別人気曲のブログ記事への反応で利用者が国同士を張り合うのを見て、記事で済ませず地域比較できる専用サイトを作成（Candice Greenberg『The origin and evolution of Spotify's Wrapped』）",
+  "2013年：『みんなの一年』から個人向け『あなたの一年』へ。仕組みも賛同者もない中、大きな承認を取りにいかず『small and under the radar』で有志とレイヤーフレームで公開、約65.5万人（同）",
+  "2014年：マーケは新規獲得につながらないと反対、技術・ウェブ開発は余力なし→一部門を説得し切るのではなく、広報・アーティスト窓口・営業・有料会員・技術（プレイ イット フォワード、後のディスカバー ウィークリーの検証）・各国拠点それぞれに意味を渡して巻き込み、目標も新規獲得からブランド認知・MAU・有料転換へ書き換え（同）",
+  "2015年：個人の数字を見せる企画から『音楽を糸に一年の物語を語る体験』へ目的を言い直し、12部門横断・専用データ経路9本・地区ごとの屋外広告。2016年に公式グローバル施策化しラップドに改名（改名経緯は未確認）（同）",
+  "2019年：2018年の『全部を一つの巨大処理で回す』方式を捨て、データストーリーごとの独立処理に。約5倍のデータを25%少ない費用で処理（Spotify Engineering『Spotify Unwrapped』）"
+ ]
 }

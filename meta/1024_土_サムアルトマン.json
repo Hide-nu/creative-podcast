@@ -1,8 +1,15 @@
 {
  "page_id": "3e5daecc3d918100ba91e09a25b21c9a",
  "title": "サム・アルトマン",
- "chars": 6617,
- "award": "2023（タイム誌 世界で最も影響力のある100人、同誌 CEO・オブ・ザ・イヤー）",
- "note": "進行中の題材のため2026年9月時点で確認できた事実で執筆：2023年11月17日解任→22日復帰、2024年3月外部調査は解任不要と結論、2025年10月公益法人（OpenAI Group PBC）へ再編、2026年5月マスク訴訟は出訴期限切れで陪審が退け（本案判断なし）、2026年9月国連安保理で国際基準を提唱・上場は時期尚早と発言。評価が割れる点は本文で両論併記。",
- "sources": "Wikipedia「Sam Altman」、Wikipedia「Removal of Sam Altman from OpenAI」、Wikipedia「Musk v. Altman」、Britannica Money「Sam Altman」、TIME「Sam Altman Is TIME's 2023 CEO of the Year」、Euronews「These are TIME Magazine's 100 Most Influential People of 2023」、TechCrunch「Sam Altman says ChatGPT has hit 800M weekly active users」、Al Jazeera「OpenAI restructures into public-benefit firm, Microsoft takes 27% stake」、NPR「Jury dismisses all claims in Elon Musk's lawsuit against OpenAI CEO Sam Altman」、TechCrunch「OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026」、The Next Web「Sam Altman tells UN Security Council OpenAI will slow down」、The 19th「The results of the biggest study on guaranteed income programs are finally in」、Rogers『Diffusion of Innovations』、Davis (1989) MIS Quarterly、Reeves & Nass (1996)『The Media Equation』、Collingridge (1980)『The Social Control of Technology』、Parasuraman & Manzey (2010) Human Factors"
+ "chars": 6672,
+ "award": "2023（タイム誌 世界で最も影響力のある100人、同誌 CEO・オブ・ザ・イヤー）。ChatGPTは公開5日で100万人",
+ "note": "人物回だが、アルトマン本人が公開判断の場面で誰と何を議論して決めたかは公開資料では確認できず、台本でもそう明言し『アルトマン率いるOpenAIの判断』として描いた。公開判断の理由は証言が割れる：The Atlantic（2023/11、社員3人の証言）とNYT（2023/2）は競合（Anthropicの噂・ライバル）への警戒、Nick Turley（Lenny's Podcast 2025）は『特化型の試作にしびれを切らした』『決めてから10日』。両方を出典付きで併記。NYTは本文未読（要約で確認）のため計画と懸念の要点のみ使用。Anthropicに直近の計画はなかったという書籍由来の記述は原文未確認のため不使用。",
+ "turning_points": [
+  "2022年8月以降：GPT-4完成で社内の関心が指示追従型に移り会話の研究は一時忘れられたが、会話を捨てずに指示追従データと会話データを混ぜる道を選ぶ／会話の方が使いやすく、評価者にも目標が直感的だったため（John Schulman、Dwarkesh Podcast 2024）",
+  "2022年秋：GPT-4のハッカソンで会議ボットやコーディング道具など用途特化の試作を作ったが、利用者が用途外にも使いたがったため、何でも話せる汎用の入り口を1つ出す方に切り替え／実際の使われ方の分布を知るため（Nick Turley、Lenny's Podcast 2025）",
+  "2022年11月：GPT-4と数個のチャットボットを2023年初めに出す計画を待たず、既存のGPT-3.5で数週間以内に出すと決定／Anthropicがチャットボットを作っているという社内の噂、データ収集（The Atlantic 2023/11、NYT 2023/2）。Turleyは『決めてから10日』と証言",
+  "2022年11月：製品発表ではなく『low-key research preview』として無料で出す。大きな進歩と売り込まない（Liam Fedus、Jan Leike、MIT Technology Review 2023/3；The Atlantic）",
+  "2022年11月29日頃（公開前夜）：Ilya Sutskeverの10問中5問程度しか合格せず迷うが、『完璧まで待てない、既存モデルより事実性・安全性で上回れば出す』という基準で公開。名前を『Chat with GPT-3.5』からChatGPTに縮め、履歴機能は無しで出す（Mark Chen・Nick Turley、OpenAI Podcast 2025；John Schulman、MIT Technology Review）"
+ ],
+ "sources": "Sam Altman「Reflections」（2025年1月、個人ブログ）、MIT Technology Review「The inside story of how ChatGPT was built from the people who made it」（2023年3月）、The Atlantic「Inside the Chaos at OpenAI」（2023年11月、Karen Hao・Charlie Warzel）、The New York Times「How ChatGPT Kicked Off an A.I. Arms Race」（2023年2月、Kevin Roose、要約で確認）、OpenAI Podcast Ep.2（Mark Chen・Nick Turley、2025年7月、Chipstrat掲載の書き起こし）、Lenny's Podcast「Inside ChatGPT」（Nick Turley、2025年8月、書き起こし）、Dwarkesh Podcast「John Schulman」（2024年5月）、OpenAI「ChatGPT: Optimizing Language Models for Dialogue」（2022年11月30日）、Sam Altmanのツイート（2022年12月5日・10日）、Marketing AI Institute「Sam Altman Stanford interview」（2024年）、TIME「OpenAI Used Kenyan Workers on Less Than $2 Per Hour」（2023年1月）、Eric Ries『The Lean Startup』（2011）、Camerer, Loewenstein & Weber「The Curse of Knowledge in Economic Settings」（1989）"
 }

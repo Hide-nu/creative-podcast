@@ -1,0 +1,15 @@
+{
+ "page_id": "3e5daecc3d9181c9ab88c56709e2675b",
+ "title": "Twitter",
+ "chars": 6518,
+ "award": "2007（サウスバイサウスウエスト ウェブアワード ブログ部門受賞）",
+ "note": "証言が割れる題材のため、Dom Sagolla（2009年の回想）、Jack Dorsey（LA Times 2009）、Noah Glass（Business Insider取材）、Nick Bilton『Hatching Twitter』を出典ごとに明示した。命名者はGlassが自分だと主張し、Dorseyは『みんなで名前を出し合った』と語る。140字はSagollaによれば公開後に上限を設けたもので、最初から140字ではなかった。『DorseyがGlass解雇を求めた』はBiltonの報告で、Williams側の反論は取材できていない。",
+ "turning_points": [
+  "2006年初め：Apple等との競争で傾いたOdeoを磨き続けるのでなく、終日のブレストで新案を探し、Dorseyの『SMSで小グループに近況を伝える』案を選択。他の社員はOdeoの運営に残して退路を確保し、小さな別チームで試作（Sagolla「How Twitter Was Born」、Glass談）",
+  "2000年→2006年：Dorseyは2000年にRIMのメール端末で同じ案を試作したが、端末を持つ人がおらず断念。2005〜06年に携帯会社間のSMSが通じるようになり『今こそこの案の時だ』と再挑戦（Dorsey、LA Times 2009）",
+  "2006年：仮称Statusから、twitchを『思い浮かぶ絵がよくない』と捨てて辞書で見つけたtwitterへ。『FriendStalker』の冗談案は採らず。5桁ショートコードのためtwttrを狙うがTeen Peopleに取られており40404に（Dorsey、Sagolla、Glass）",
+  "2006年：上限なしでSMSが分割され請求もかさんだため、分割しないことを優先して160字から名前用20字を引いた140字に。『watch』を『follow』に言い換え（Sagolla、Dorsey）",
+  "2006年夏：GlassはTwitterをOdeoから独立させようとしたが、WilliamsがOdeoを投資家から買い戻してObviousとし、Glassは退社。BiltonはDorseyが解雇を求めたと報告（Glass談、Bilton）"
+ ],
+ "sources": "Dom Sagolla「How Twitter Was Born」（140 Characters、2009）、Los Angeles Times「Twitter creator Jack Dorsey illuminates the site's founding document」（2009）、Business Insider「INTERVIEW: This Twitter Cofounder Will Make Almost No Money From The IPO」（Noah Glassインタビュー、hannibal.net転載）、Nick Bilton『Hatching Twitter』（2013）、Steven Johnson『Where Good Ideas Come From』、Patricia Stokes『Creativity from Constraints』"
+}

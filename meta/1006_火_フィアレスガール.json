@@ -1,8 +1,15 @@
 {
  "page_id": "3e5daecc3d9181e48d11c6f637d208ce",
- "title": "Fearless Girl（恐れを知らぬ少女）",
- "chars": 6564,
- "award": "2017（カンヌライオンズ グランプリ4部門：チタニウム、PR、アウトドア、グラス／計18ライオン）",
- "note": "",
- "sources": "Adweek「Fearless Girl's Dominating Run at Cannes Ends With 4 Grand Prix and 18 Total Lions」、D&AD「Case Study: Fearless Girl」、Business Wire「State Street Global Advisors Marks Third Anniversary and Progress of Fearless Girl Campaign Reports 681 Companies Added Female Board Members」（2020年）、Bloomberg「Fearless Girl's First Year Helped Reshape Corporate Boardrooms」（2018年）、CBS News「'Fearless Girl' Firm Settles Gender Pay Gap Allegations」（2017年）、Quartz「The firm behind Wall Street's \"Fearless Girl\" will pay a $5 million settlement for salary discrimination against women」、Worth「Did Fearless Girl Change Anything for Women on Wall Street?」、Center for Media Engagement「Ethics and Artistic Appropriation」、Claims Journal「'Fearless Girl' Lawsuit by State Street Settles on Eve of Trial」（2024年）、The Drum「State Street mulls siblings for Fearless Girl as it removes its brand from NYC statue」、Goffman (1974) Frame Analysis、Hirschman (1970) Exit, Voice, and Loyalty、Spence (1973) Job Market Signaling、Kanter (1977) Men and Women of the Corporation、Granovetter (1978) Threshold Models、Monin & Miller (2001) モラル・ライセンシング"
+ "title": "Fearless Girl（ステート・ストリート）",
+ "chars": 6505,
+ "award": "2017（カンヌライオンズ グランプリ4部門：チタニウム、グラス、PR、アウトドア。計18ライオン）、2018 D&AD ブラックペンシル、2018 北米エフィー賞グランド エフィー",
+ "note": "雌牛案の経緯は出典で食い違う（D&AD：SSGAの当初ブリーフ『役員室の男女半々』が変わって不適合に／Worth：最初はEllevestに持ち込みKrawcheckが却下、少女案も費用で見送り／Daily Beast：Reillyの話として少女案をMicrosoftなど複数社に持ち込み）ため、三説を出典名つきで併記。許可期間はWikipedia『1週間→30日』とD&AD『2週間の延長』で食い違うため『当初1週間、その後延長』とだけ記述。『スケッチ11枚を30人の委員会に提出、粘土原型31日』は原出典を確認できず不使用、アドエイジの『スケッチ調整に6週間』とD&ADを採用。設置の晩はD&ADの3月6日夜〜7日午前4時に従った。Worthの作者名誤記（Alex Di Modica）は不採用、正しくはArturo Di Modica。",
+ "turning_points": [
+  "2016年：当初の雌牛（雄牛と対の男女半々）案を捨て、雄牛に立ちはだかる少女へ／ブリーフが『女性登用を促し、しない企業に異を唱える』に変わり対の構図が合わなくなった（D&AD）。Ellevestでの却下（Worth）、複数社への持ち込み（Daily Beast）の説もあり",
+  "2016年11月〜2017年2月：大人の女性でなく少女に／『楽観、希望、無垢、決意』（Eric Silver、Ad Age）。怒りでなく勇敢な表情、ラテン系のモデルを追加、高さを依頼の36インチから50インチへ（Ad Age、Daily Beast、Wikipedia）",
+  "2017年3月：ブランドは小さな銘板のみ／『生活に割り込むブランディングは嫌われる』（Lizzie Wilson、D&AD）",
+  "2017年3月初め：設置の数日前、名前がないことにReillyが気づき『名がなければ世間が決めてしまう』とこだわって『フィアレス ガール』に（D&AD、Ad Age）",
+  "2017年3月6〜7日：広場の許可が取れず道路催事の許可で設置、石畳で広場を延長。国際女性デー前夜に午後11時〜午前4時で設置。許可延長後、4月2日から市運輸局の公共芸術制度で銘板なしで継続（Ad Age、D&AD）"
+ ],
+ "sources": "D&AD「Fearless Girl: Case Study Insights」、Ad Age「Things you didn't know about Fearless Girl」（2017年、ウェイバックマシン保存版）、Worth「Did Fearless Girl Change Anything for Women on Wall Street?」（2019年4月）、The Daily Beast「State Street Global Advisors Battle Sculptor Kristen Visbal for Custody of 'Fearless Girl' Statue」（2019年）、Adweek「Fearless Girl Takes Cannes by Storm, Winning 3 Grand Prix on Her First Day」「Fearless Girl's Dominating Run at Cannes Ends With 4 Grand Prix and 18 Total Lions」（2017年6月）、Wikipedia「Fearless Girl」、Kristen Visbal 公式サイト（2024年和解の告知）、Umberto Eco『開かれた作品』（1962）、Chip Heath & Dan Heath『アイデアのちから』"
 }

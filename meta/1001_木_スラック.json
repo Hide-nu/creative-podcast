@@ -1,0 +1,15 @@
+{
+ "page_id": "",
+ "title": "Slack",
+ "chars": 6581,
+ "award": "2014年2月正式公開、広告なしの口コミで急成長（2020年12月にSalesforceによる買収発表）",
+ "note": "Snapchat ストーリーズから差し替え（一次記録が薄いため）。経緯の主な出典はButterfield本人の発言（Masters of Scale書き起こし、First Round Review）と本人公開のメモ。",
+ "turning_points": [
+  "2012年11月：16個目の改善案に賭けて最後の資金まで粘るのでなく、取締役会・投資家・共同創業者が続行を望む中で、資金が残るうちにGlitchを終了（Masters of Scale、Tiny Speck『A Sad Announcement』）",
+  "2012年末：残る約550万ドルを投資家に返すのでなく、約3週間の検討で『ばかげた案』を退け、IRCに記録・検索を足して3年半使ってきた社内連絡ツールを製品化すると決定。72時間で計画資料、1週間で方針確定（Masters of Scale）",
+  "2013年5月〜：自社だけで仕上げるのでなく、Rdio・Cozyなど友人の会社6〜10社、さらに大きなチームへと段階的に試用を広げ、Rdio（120人）の混乱からチャンネル説明と参加人数の表示を追加（First Round Review）",
+  "2013年：機能一覧を埋めるのでなく、Buchheitの『Great, not Good』に倣い検索・同期・小さな操作の3点に絞る（First Round Review）",
+  "2013年7〜8月：『ベータ』でなく『プレビュー版』として8月14日に公開（不安定と思われないため）。直前の7月31日のメモ『We Don't Sell Saddles Here』で、グループチャットでなく組織の変化を売ると定義。初日8,000、2週間で15,000の申し込み（Butterfieldメモ、First Round Review）"
+ ],
+ "sources": "Masters of Scale「Episode Transcript: Stewart Butterfield」（The big pivot）、Stewart Butterfield「We Don't Sell Saddles Here」（Medium）、First Round Review「From 0 to $1B - Slack's Founder Shares Their Epic Launch Strategy」、WIRED「The Most Fascinating Profile You'll Ever Read About a Guy and His Boring Startup」（2014）、Tiny Speck「A Sad Announcement from Tiny Speck」（2012）、Lenny's Newsletter「Slack founder Stewart Butterfield」（本文は有料のため項目のみ確認）、Steve Blank『The Four Steps to the Epiphany』、Clayton Christensen『Competing Against Luck』"
+}

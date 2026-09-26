@@ -1,13 +1,16 @@
 #!/bin/bash
 # synthesis worker: picks up finished scripts (marked by .done file) and makes mp3s
-cd ~/vv; mkdir -p ~/pod/up32
+# SCRIPTS_DIR で台本の場所を変えられる（既定 ~/pod/scripts）。~/vv/venv があれば使う（Mac）
+cd ~/vv; [ -e venv/bin/activate ] && . venv/bin/activate
+S=${SCRIPTS_DIR:-~/pod/scripts}
+mkdir -p ~/pod/up32 ~/pod/out ~/pod/parts ~/pod/logs
 W=$1
 while true; do
   did=0
-  for s in ~/pod/scripts/*.txt; do
+  for s in "$S"/*.txt; do
     [ -e "$s" ] || continue
     b=$(basename "$s" .txt)
-    [ -e ~/pod/scripts/$b.done ] || continue
+    [ -e "$S/$b.done" ] || continue
     [ -e ~/pod/out/$b.mp3 ] && continue
     mkdir ~/pod/parts/$b.lock 2>/dev/null || continue   # claim
     echo "$(date +%T) W$W start $b" >> ~/pod/logs/worker.log

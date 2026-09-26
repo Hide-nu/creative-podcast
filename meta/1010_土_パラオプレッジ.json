@@ -1,8 +1,15 @@
 {
  "page_id": "3e5daecc3d918127afeef8f71c36f414",
  "title": "Palau Pledge",
- "chars": 6613,
- "award": "2018（カンヌライオンズ グランプリ3部門：チタニウム、ダイレクト、持続可能な開発目標）",
- "note": "",
- "sources": "ファストカンパニー「Tourism-turned-environmental campaign wins Cannes Lions top prize」、ウェストミンスター・ペーパーズ「The Palau Legacy Pledge: A Case Study of Advertising, Tourism, and the Protection of the Environment」、世界経済フォーラム「This country is making tourists promise not to harm the environment」、B&T「Host/Havas ECD Talks Palau Pledge, Grand Prix & Crafting Out Of Ideas」、D&AD「Palau Pledge」、アイランドタイムズ「From Pledge to Progress」、ABCニュース「China's 'tourist ban' leaves Palau struggling to fill hotels」、キャンペーンブリーフ「Cannes Lions to distribute funds from SDG Lions to NGO behind Palau Pledge」、PNAS撤回論文 Shu et al. 2012 に関する撤回報道"
+ "chars": 6625,
+ "award": "2018（カンヌライオンズ グランプリ3部門：チタニウム、ダイレクト、持続可能な開発目標）、2018 D&AD ブラックペンシル",
+ "note": "新ブリーフで書き直し。作り手の証言はホスト/ハバスのシェイマス・ヒギンズ（B&T 2本）が中心。『47案』『通貨・国名・税関を比較して税関を選んだ』『子どもとのワークショップ』はウェストミンスター・ペーパーズの事例研究がD&AD事例紹介とAdweekを引用したもの（D&AD原ページは404で未確認）で、台本では『事例研究によれば』と出所を明示。47案の中身とボツ理由は記録にないと明示。月単位の開発日程は未確認のため書いていない。96%は広告会社自身の調査である旨を影の側面で明示。",
+ "sources": "B&T「Host/Havas ECD Talks Palau Pledge, Grand Prix & 'Crafting The Sh*t' Out Of Ideas」、B&T「Host/Havas Creates World-First Eco-Tourism Initiative」（2017年）、Westminster Papers in Communication and Culture「The Palau Legacy Pledge: A Case Study of Advertising, Tourism, and the Protection of the Environment」（2020年、D&AD「Case study: Palau Pledge」、Adweek「How a Surge of Tourists and Ecological Threats Led to Palau Pledge」、Ad Age、Creative Briefなどを引用）、Adweek「How a Surge of Tourists and Ecological Threats Led to Palau Pledge, Cannes' Top Campaign」、South China Morning Post「The Palau pledge: Pacific island forces visitors to sign eco-promise」（2017年12月8日）、Wikipedia「Palau」、Cialdini (1984) Influence、Thaler & Sunstein (2008) Nudge、Shu et al. (2012) PNAS の2021年撤回",
+ "turning_points": [
+  "2015〜17年：在住の4人（ローラ・クラーク、ニコル・フェイガン、ジェニファー・コスケリン＝ギボンズ、ナナエ・シンゲオ）が、2013年からの『してほしいこと・しないでほしいこと』一覧型キャンペーンでは足りないとして伝え方自体を変える道を選び大統領夫人に持ち込む。政府内には『旅行者が取り締まられていると感じる』との懐疑（Westminster Papers、シンゲオ2016年発言）",
+  "お題：旅行者を減らすのではなく行動を変える。観光が経済そのものであるため（B&T、ヒギンズ）",
+  "接点：国の通貨や国名を使う案も検討したが、誰も避けて通れない入国審査を選択。署名の方が守られやすく、パスポートは個人的な持ち物だから（Westminster PapersがD&AD事例紹介を引用）。広告予算がないため仕組み自体が話題になるものに（ヒギンズ、Adweek引用）",
+  "語り口：法律の条文のような規則一覧ではなく『パラオの子どもたちへの約束』にし、子どもたちとのワークショップで文面を共同執筆。『突然、とても人間的なものになった』（B&T、D&AD引用）",
+  "実現：看板や冊子でなく入国の法律と手続きを恒久的に変えるため、首長・政府・企業・観光業界と約2年調整。2017年に大統領が責任ある観光教育法を提出、同年12月開始（B&T、Westminster Papers、SCMP）"
+ ]
 }

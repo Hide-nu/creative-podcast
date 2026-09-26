@@ -1,8 +1,15 @@
 {
  "page_id": "3e6daecc3d91813b91a3caa947bcc4af",
  "title": "Wordle",
- "chars": 6559,
- "award": "2022（グーグル年間検索ランキングで世界1位の急上昇ワード。同年ニューヨーク・タイムズが買収）",
- "note": "",
- "sources": "ウィキペディア英語版「Wordle」、ウィキペディア英語版「Josh Wardle」、テッククランチ「A conversation with Josh Wardle, creator of viral hit Wordle」、コタク「Wordle Creator Doesn't Want His Popular Game To Take Over Your Life」、タイム誌「Wordle Creator Josh Wardle Talks NYT Sale, Game's Success」、ワシントン・ポスト「Wordle is Google's top search term in 2022」、アクシオス「Games are helping the New York Times thrive amid media chaos」"
+ "chars": 6885,
+ "award": "2022（グーグル年間検索ランキングで世界1位の検索語。同年1月ニューヨーク・タイムズが「低い7桁ドル」で買収）",
+ "note": "新ブリーフで書き直し。時期は出典で割れる：講演報道（Ars Technica）はサイト公開を2021年1月ごろ、NYTは一般公開を2021年10月、Verge（2024年Config講演）は試作後に約6年放置・NYTパズルにはまったのは2020年初めとする。台本は『パンデミックの時期』『2021年1月ごろからネット上に』『一般公開は10月』と出典名つきで扱った。単語を仕分けたのは講演ではpartner/wife、名前パラク・シャーはNYT側。絞り込み後の約2,500語はVerge報道の数字。共有ボタン追加の時期は本人ツイート（2021年12月16日）から。",
+ "turning_points": [
+  "2013〜14年：約1万3千語からの無作為出題を捨て、文字頻度アルゴリズムでの絞り込みも不満で捨て、パートナーが全語を『知っている／知らない／たぶん』で仕分ける専用アプリで答えを選ぶ方式に。知らない単語が答えだとだまされたと感じるため（GDC 2022講演、Game Developer・Ars Technica・Thumbsticks報道）",
+  "2020〜21年：遊び放題の試作形式を捨て、NYTクロスワードとスペリング・ビーにならい1日1問・全員同じ単語に。『1日3分だけのゲームが欲しかった』（同、TechCrunch 2022年1月）",
+  "2021年：アプリではなく個人サイト上のウェブゲームに。通知で呼び戻すことに興味がなく、2人で遊ぶならウェブで足りたため（TechCrunch、The Verge）",
+  "2021年12月：ニュージーランドの利用者が手打ちしていた絵文字グリッドを共有機能として実装。共有文にURLをあえて入れない：見た目が損なわれる、共有させる下心への違和感（Game Developer、Ars Technica、The Spinoff）",
+  "2022年1月：投資や自前運営ではなくNYTへの売却を選択。ゲーム事業を運営したくない、広告つきクローンから離れたい、NYTなら広告だらけにしないため（Ars Technica、Thumbsticks）"
+ ],
+ "sources": "Game Developer「Josh Wardle reflects on the unconventional road to Wordle's success」、Ars Technica「Wordle creator describes game's rise, says NYT sale was \"a way to walk away\"」、Thumbsticks「Wardle on Wordle: How a simple word game became a global phenomenon」、TechCrunch「Josh Wardle interview」（2022年1月12日）、The Verge「Wordle's original name was Mr. Bugs' Wordy Nugz」（2024年）、The Spinoff「Those coloured boxes on Twitter are New Zealand's fault」、The New York Times「Wordle Is a Love Story」（2022年1月3日、報道経由）、Wikipedia「Wordle」（買収・単語削除・リンゴ司会者の批判の確認）、Josh Wardle本人のツイート（2021年12月16日、共有ボタン追加）、Eric von Hippel「Lead Users」（1986）、Barry Schwartz『The Paradox of Choice』（2004）"
 }
