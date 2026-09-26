@@ -44,3 +44,9 @@ GitHub Pages で RSS 配信し、Spotify に載せるためのもの。README.md
 - 2026/9/26 時点で Notion 側のメモに「Spotify Wrapped（10/11）はカンヌ・グランプリではない」という確認メモがある。題材を差し替える場合は `episodes.json` の該当回と `docs/ep/2026-10-11.mp3` を置き換える（放送前なら guid はそのままでよい）。
 - 新しい回の追加は `tools/add_episode.py`。台本・音声の作り方は README と `pipeline/`。
 - トークンやパスワードをファイルやコミットに残さない。
+
+## 2026/9/26 時点の状態
+- 全40本を「アイデアの分岐点」の新形式（経緯中心、pipeline/BRIEF.md）で書き直し、`podcast.json` の `batch` で一括公開済み（guid・音声URLは従来どおり）。10/1 は Slack、10/8 はユニクロックに差し替え（Notion にはまだページがない）。
+- 毎朝の自動公開ワークフローは無効化中（`gh workflow enable feed.yml` で再開）。11/4 以降の新しい回を日次で出すときに再開する。
+- 音声合成はこの Mac で動く（~/vv に VOICEVOX、`SCRIPTS_DIR=<repo>/scripts bash pipeline/worker.sh N`、~/pod/STOP で停止）。
+- 下調べと題名・説明文の元データは drafts/（screening.md, episode_texts.json）。
