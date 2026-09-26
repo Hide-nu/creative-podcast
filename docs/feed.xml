@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>アイデアの分岐点</title>
+  <link>https://hide-nu.github.io/creative-podcast/</link>
+  <atom:link href="https://hide-nu.github.io/creative-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>ja</language>
+  <description>世界中の突出したクリエイティブは、最初から完成形だったわけではありません。一度は保留にされた最初の案、書き換えられた問い、社内の反対、技術や予算の制約。この番組は、名作と呼ばれるプロダクト・広告・作品が世に出るまでのプロセスを、作り手本人の言葉と記録から調べて解説します。毎朝1本、約18分。台本はAIと調べて書き、音声はVOICEVOXで合成しています。
+音声：VOICEVOX:玄野武宏</description>
+  <itunes:summary>世界中の突出したクリエイティブは、最初から完成形だったわけではありません。一度は保留にされた最初の案、書き換えられた問い、社内の反対、技術や予算の制約。この番組は、名作と呼ばれるプロダクト・広告・作品が世に出るまでのプロセスを、作り手本人の言葉と記録から調べて解説します。毎朝1本、約18分。台本はAIと調べて書き、音声はVOICEVOXで合成しています。
+音声：VOICEVOX:玄野武宏</itunes:summary>
+  <itunes:author>o-hide</itunes:author>
+  <itunes:owner><itunes:name>o-hide</itunes:name><itunes:email>hidetoshi.asao@o-hide.com</itunes:email></itunes:owner>
+  <itunes:image href="https://hide-nu.github.io/creative-podcast/cover.jpg"/>
+  <image><url>https://hide-nu.github.io/creative-podcast/cover.jpg</url><title>アイデアの分岐点</title><link>https://hide-nu.github.io/creative-podcast/</link></image>
+  <itunes:category text="Education"><itunes:category text="Self-Improvement"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <lastBuildDate>Sat, 26 Sep 2026 17:36:51 +0900</lastBuildDate>
+  <item>
+    <title>9/26（土）ユーチューブ</title>
+    <description>プロローグ回。動画を見るだけだった私たちが、出す側になった。発信の民主化を読み解く。
+
+音声：VOICEVOX:玄野武宏</description>
+    <itunes:summary>プロローグ回。動画を見るだけだった私たちが、出す側になった。発信の民主化を読み解く。
+
+音声：VOICEVOX:玄野武宏</itunes:summary>
+    <enclosure url="https://hide-nu.github.io/creative-podcast/ep/2026-09-26.mp3" length="6693783" type="audio/mpeg"/>
+    <guid isPermaLink="false">asa-pod-2026-09-26</guid>
+    <pubDate>Sat, 26 Sep 2026 05:00:00 +0900</pubDate>
+    <itunes:duration>00:13:56</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>9/25（金）デュオリンゴ</title>
+    <description>プロローグ回。語学アプリのデュオリンゴから、習慣そのものを設計したプロダクトを読み解く。
+
+音声：VOICEVOX:玄野武宏</description>
+    <itunes:summary>プロローグ回。語学アプリのデュオリンゴから、習慣そのものを設計したプロダクトを読み解く。
+
+音声：VOICEVOX:玄野武宏</itunes:summary>
+    <enclosure url="https://hide-nu.github.io/creative-podcast/ep/2026-09-25.mp3" length="7134807" type="audio/mpeg"/>
+    <guid isPermaLink="false">asa-pod-2026-09-25</guid>
+    <pubDate>Fri, 25 Sep 2026 05:00:00 +0900</pubDate>
+    <itunes:duration>00:14:51</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

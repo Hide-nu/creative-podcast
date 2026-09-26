@@ -1,0 +1,20 @@
+name: Publish today's episode
+on:
+  schedule:
+    - cron: "50 19 * * *"   # 毎日 04:50 JST
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+      - run: python3 tools/build_feed.py
+      - run: |
+          git config user.name "podcast-bot"
+          git config user.email "podcast-bot@users.noreply.github.com"
+          git add docs/feed.xml docs/index.html
+          git diff --cached --quiet || (git commit -m "Publish $(TZ=Asia/Tokyo date +%F)" && git push)
